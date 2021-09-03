@@ -1,1 +1,1 @@
-https://june-skeeter.github.io/GEOS270W1_Module1/
+https://june-skeeter.github.io/Module1_GEOS270/
