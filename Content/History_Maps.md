@@ -9,23 +9,13 @@ nav_order: 1
 
 ## Evolution of Cartography
 
-The earliest maps present diverse and abstract representations of reality and used very different medium than we do today today: 
-* Rock art
-* Pottery
-* Carvings
-* Textiles
-
-They frequently depicted: 
-* Landscapes
-* Hunting grounds
-* Villages
-* Agricultural plots  
+The earliest maps presented diverse and abstract representations of reality.  They used very different medium than we do today today, and are sometimes quite difficult to see as maps today.  
 
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="timeline.png" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="EarlyHistoy.html" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -35,6 +25,13 @@ They frequently depicted:
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
+<a href="EarlyHistoy.html" target="_blank">View slides in new tab</a>
+
+
+
+
+
+
 
 ## The First Surveys
 
