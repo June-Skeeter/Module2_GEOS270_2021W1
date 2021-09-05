@@ -2,7 +2,7 @@
 layout: default
 title: Module 1
 # parent: Modules
-has_children: True
+# has_children: True
 nav_order: 1
 ---
 

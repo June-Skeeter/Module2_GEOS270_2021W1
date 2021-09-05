@@ -1,26 +1,26 @@
 ---
 layout: default
-title: Foundations of Epidemiology
+title: Spatial Analysis
 parent: Application
 grand_parent: Module 1
-nav_order: 3
+nav_order: 5
 ---
 
-# Foundations of Epidemiology
+# Spatial Analysis
 
-We are going to replicate one of the foundational studies in [Epidemiology](https://en.wikipedia.org/wiki/Epidemiology) and the closely related field of [Health Geography](https://en.wikipedia.org/wiki/Health_geography) using modern GIS techniques.  
+We already know the Broad St. pump was the source of the outbreak, but lets explore a couple analysis techniques we could use to identify the source of the outbreak.
 
-## Applying Modern Methods to the 1854 Cholera Outbreak
+## Measures of Central Tendency
 
-[Dr. John Snow](https://en.wikipedia.org/wiki/John_Snow#Cholera) was a physician practicing in London where cholera outbreaks were a frequent occurrence due to poor sanitation practices.  Dr. Snow was a skeptic of the miasma theory and a proponent of germ theory.  In 1849 he proposed cholera that it was spread by fecal contaminated water, after comparing cholera rates between London districts supplied by different water companies.
-* Five years later, during an outbreak in London's SoHo neighborhood in 1854, Dr. Snow was able to identify the point source of an the outbreak using a hand-sketched map.  He recorded each case of cholera in the area using a dash, and recorded each water pump with a circled dot, creating what today would be called a ‘dot map.’ By recording clusters of disease, and conducting interviews, Snow was able to trace most cases of the outbreak to a single water pump, located on Broad st.
-  * Using this map, Dr. Snow was able to convince the local council to remove the pump handle and the outbreak subsided.
-  * Despite this, the medical community in London continued to reject the idea that Cholera was caused by fecal contamination for another twenty years.
+There are numerous ways to analyze the spatial distribution of a dataset.  The [Mean Center](https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/mean-center.htm) and [Directional Distribution](https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/directional-distribution.htm) are two of the simplest measures.  Mean center gives you a single point around which the directional distribution creates an ellipse to show directional trends in the data.  You don't have to calculate these statistics, but skim the linked pages and look at the example below to understand what these methods do.
+* They can be weighted (eg. by the number of deaths per address).
+* These measures roughly identify the Broad St. Pump as the source of the outbreak, as shown in the figure below.
+  * However, they are rudimentary metrics at best.  They could be used to identify multiple point sources for example.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="Snow_Map.jpg" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="Distribution.png" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -30,5 +30,48 @@ We are going to replicate one of the foundational studies in [Epidemiology](http
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="Snow_Map.jpg" target="_blank">View Image in New Tab</a>
+<a href="Distribution.png" target="_blank">View Image in New Tab</a>
 
+
+### [**Written Submission 3**](/Assessment.html#written-submission-3)
+
+What do the mean center and directional distribution tell us about a set of points?
+
+## Point Density
+
+A more advanced method is [Kernel Density](https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-analyst/kernel-density.htm), which gives you a magnitude (eg. number of deaths) per unit area (eg. hectare).  Follow the steps as outlined and refer to the video below to calculate the Kernel Density of cholera deaths in Soho.
+
+**1)** Click the Analysis tab and select Tools.  In the Geoprocessing pane, search for and open the Kernel Density tool.
+* The Geoprocessing pane is where you can find all the different spatial analysis tools in ArcGIS Pro.
+
+**2)** Set Deaths as the input and COUNT as the Population Field.
+* The population field weights the calculations by the number of deaths at each address.
+
+**3)** Rerun the analysis multiple times, playing around with different Output cell sizes and Area units.  When you are done exploring the effects of cell size and units, calculate the Kernel Density with a cell size of 5 and unit of Hectares.
+* A Hectare is 10,000 m<sup>2</sup>, or about the area a small city block.
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="KD.mp4" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="KD.mp4" target="_blank">View Image in New Tab</a>
+
+### [**Written Submission 4**](/Assessment.html#written-submission-3)
+
+Why might Kernel Density might be more useful for identifying the source of a source(s) of a cholera outbreak outbreak than the mean center and directional distribution?
+
+### [**Written Submission 5**](/Assessment.html#written-submission-4)
+What are the effects of changing the "Output cell size" and "Area unit"?
+
+## Save your project.
+
+Click Save in the top left of the Arc Pro window.
