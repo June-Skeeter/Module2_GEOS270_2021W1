@@ -25,7 +25,7 @@ In order to get the map into a GIS, it has to be scanned and then [georeferenced
 Once the map has been scanned and georeferenced, we can extract information from it.  On Dr. Snow’s map, the key pieces of information are the cholera deaths and water pumps.  To get this information into the GIS, the points have to be manually identified and entered.  This process is known as digitizing, and was explained in the [Create points on a map](https://pro.arcgis.com/en/pro-app/latest/get-started/create-points-on-a-map.htm) video.  
 
 
-### [**Written Submission 2**](/Assessment.html#written-submission-2)
+### [**Written Submission 2**](/Assessment.md#written-submission-2)
 
 In your own words, what does georeferencing do?
 

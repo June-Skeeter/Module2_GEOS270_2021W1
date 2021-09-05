@@ -6,12 +6,8 @@ grand_parent: Module 1
 nav_order: 1
 ---
 
-
-
 1. TOC
 {:toc}
-
-
 
 # ArcGIS Pro Tutorial
 To get familiar with ArcGIS Pro, you will complete an Introduction to ArcGIS Pro tutorial and watch a three other short videos.  The tutorial will take about 25 minutes and give you a brief overview of the ArcGIS Pro.  The videos illustrate other important aspects of the ArcGIS Pro software package and will take about 10 minutes to watch.  If you have purchased ArcGIS Pro, you can sign in through the UBC ArcGIS online account you created. If you are using the lab computers, and don’t already have one, create a public account:
@@ -39,7 +35,7 @@ Go to the [Introducing ArcGISPro](https://pro.arcgis.com/en/pro-app/latest/get-s
 </div>
 <a href="Part1_Author.mp4" target="_blank">View Image in New Tab</a>
 
-## [**File Submission 1**](/Assessment.html#file-submission-1)
+## [**File Submission 1**](/Assessment.md#file-submission-1)
 
 Save the layout as a .pdf, name it *Central_Wellington_Layout.pdf* and upload it to canvas.
 * To save your layout reference the image below. 1) CLick Share. 2) Click Layout Export.  3) Specify the output location and name your file.  Its best to use your Lab1_Project workspace so you can easily find this when its time to submit you map.  4) Click Export.
@@ -65,7 +61,7 @@ ESRI offers quite a few tutorials on ArcGIS Pro.  Feel free to work though them 
 ## [Explore your data](https://pro.arcgis.com/en/pro-app/latest/get-started/explore-your-data.htm)
   * This tutorial shows you how you can interact with and explore data layers.
 
-### [**Question 1**](/Assessment.html#question-1)
+### [**Question 1**](/Assessment.md#question-1)
 What does the select layer by attributes tool do?
 <!-- Find features that meet specific [criteria] - create multiple choice/ fill in the blank -->
 
@@ -74,7 +70,7 @@ What does the select layer by attributes tool do?
 ## [Make a layout](https://pro.arcgis.com/en/pro-app/latest/get-started/add-maps-to-a-layout.htm)
   * This tutorial shows you how you can use map layouts to visualize data.
 
-### [**Question 2**](/Assessment.html#question-2)
+### [**Question 2**](/Assessment.md#question-2)
 What is a Layout in ArcGIS Pro?
 <!-- A way to export a map to print formats -->
 <!-- A way to export a map to digital formats -->
@@ -86,7 +82,7 @@ What is a Layout in ArcGIS Pro?
 
 This tutorial shows a few of the ways you can analyze geospatial data and see how different layers interact.
 
-### [**Question 3**](/Assessment.html#question-3)
+### [**Question 3**](/Assessment.md#question-3)
 What tool is used to create this 1500 meter zone around the campsites?
 <!-- Buffer - Create Multiple choice w/ answers -->
 
@@ -98,7 +94,7 @@ This tutorial shows how you can create a feature class and populate it with poin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9LGPCDMUP2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [**Question 4**](/Assessment.html#question-4)
+### [**Question 4**](/Assessment.md#question-4)
 What is the first step when creating a new point layer?
 <!-- Create point feature class in the project geodatabase -->
 

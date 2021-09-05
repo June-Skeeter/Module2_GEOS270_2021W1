@@ -70,7 +70,7 @@ Follow the steps as outlined and refer to the video below to add the necessary m
 <a href="MapElements.mp4" target="_blank">View Image in New Tab</a>
 
 
-## [**File Submission 2**](/Assessment.html#file-submission-2)
+## [**File Submission 2**](/Assessment.md#file-submission-2)
 
 Save your layout as a .pdf and submit it to canvas.
 

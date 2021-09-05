@@ -7,8 +7,7 @@ nav_order: 2
 ---
 
 
-# Cartography and Collonialism
-
+## Cartography and Collonialism
 
 Exploration spurred the cartographic advances
 Trade and travel expanded conceptualizations of what the world was
@@ -21,7 +20,6 @@ First Atlas
 Index of place names
 Projected world Map!!
 Underestimated Size
-
 
 ## Chinese Exploration
 
