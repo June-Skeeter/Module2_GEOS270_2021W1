@@ -33,7 +33,7 @@ Go to the [Introducing ArcGISPro](https://pro.arcgis.com/en/pro-app/latest/get-s
 </div>
 <a href="Part1_Author.mp4" target="_blank">View Image in New Tab</a>
 
-## **Question 1)**
+## **Deliverable #1**
 Save the layout with your name as as Central_Wellington_Layout.pdf and upload it to the Lab 1 canvas quiz.
 * To save your layout reference the image below. 1) CLick Share. 2) Click Layout Export.  3) Specify the output location and name your file.  Its best to use your Lab1_Project workspace so you can easily find this when its time to submit you map.  4) Click Export.
 * The Lab 1 Quiz can be found in the Week 1: Thursday Lecture + Lab 1 module on canvas.
@@ -70,17 +70,17 @@ ESRI offers quite a few tutorials on ArcGIS Pro.  Feel free to work though them 
   * This tutorial shows how you can create a feature class and populate it with point features.
 
 
-## **Question 2)**
+## [**Question**](/Quiz.html)
 What does the select layer by attributes tool do?
 
-## **Question 3)**
+## [**Question**](/Quiz.html)
 What is a Layout in ArcGIS Pro?
 
-## **Question 4)**
+## [**Question**](/Quiz.html)
 How many campgrounds have invasive grass within 1500 meters?
 
-## **Question 5)**
+## [**Question**](/Quiz.html)
 What tool is used to create this 1500 meter zone around the campsites?
 
-## **Question 6)**
+## [**Question**](/Quiz.html)
 What is the first step when creating a new point layer?

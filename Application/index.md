@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Application
-parent: Module 1
+# parent: Module 1
 has_children: True
-nav_order: 2
+nav_order: 3
+heading_anchors: true
 ---
 
 # Lab 1 Introduction

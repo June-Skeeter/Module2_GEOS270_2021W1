@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Content
-parent: Module 1
+# parent: Module 1
 has_children: true
 # grand_parent: Modules
-nav_order: 1
+nav_order: 2
 ---
 
 
