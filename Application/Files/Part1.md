@@ -70,17 +70,17 @@ ESRI offers quite a few tutorials on ArcGIS Pro.  Feel free to work though them 
   * This tutorial shows how you can create a feature class and populate it with point features.
 
 
-## [**Question**](/Quiz.html)
+## [**Question**](/Quiz.md#QUestions???)
 What does the select layer by attributes tool do?
 
-## [**Question**](/Quiz.html)
+## [**Question**](/Quiz.md)
 What is a Layout in ArcGIS Pro?
 
-## [**Question**](/Quiz.html)
+## [**Question**](/Quiz.md)
 How many campgrounds have invasive grass within 1500 meters?
 
-## [**Question**](/Quiz.html)
+## [**Question**](/Quiz.md)
 What tool is used to create this 1500 meter zone around the campsites?
 
-## [**Question**](/Quiz.html)
+## [**Question**](/Quiz.md)
 What is the first step when creating a new point layer?
