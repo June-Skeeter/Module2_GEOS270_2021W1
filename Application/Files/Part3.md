@@ -3,7 +3,7 @@ layout: default
 title: Spatial Analysis
 parent: Application
 grand_parent: Module 1
-nav_order: 3
+nav_order: 4
 ---
 
 # Spatial Analysis

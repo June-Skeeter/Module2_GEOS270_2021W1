@@ -3,7 +3,7 @@ layout: default
 title: Making a Map
 parent: Application
 grand_parent: Module 1
-nav_order: 4
+nav_order: 5
 ---
 
 # Making a Map
