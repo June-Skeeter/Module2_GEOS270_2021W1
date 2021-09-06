@@ -61,7 +61,7 @@ ESRI offers quite a few tutorials on ArcGIS Pro.  Feel free to work though them 
 ## [Explore your data](https://pro.arcgis.com/en/pro-app/latest/get-started/explore-your-data.htm)
   * This tutorial shows you how you can interact with and explore data layers.
 
-### [**Question 1**](/Assessment.md#question-1)
+### [**Question 1**](/Module1_GEOS270/docs/Assessment.html#question-1)
 What does the select layer by attributes tool do?
 <!-- Find features that meet specific [criteria] - create multiple choice/ fill in the blank -->
 
@@ -70,7 +70,7 @@ What does the select layer by attributes tool do?
 ## [Make a layout](https://pro.arcgis.com/en/pro-app/latest/get-started/add-maps-to-a-layout.htm)
   * This tutorial shows you how you can use map layouts to visualize data.
 
-### [**Question 2**](/Assessment.md#question-2)
+### [**Question 2**](/Module1_GEOS270/docs/Assessment.html#question-2)
 What is a Layout in ArcGIS Pro?
 <!-- A way to export a map to print formats -->
 <!-- A way to export a map to digital formats -->
@@ -82,7 +82,7 @@ What is a Layout in ArcGIS Pro?
 
 This tutorial shows a few of the ways you can analyze geospatial data and see how different layers interact.
 
-### [**Question 3**](/Assessment.md#question-3)
+### [**Question 3**](/Module1_GEOS270/docs/Assessment.html#question-3)
 What tool is used to create this 1500 meter zone around the campsites?
 <!-- Buffer - Create Multiple choice w/ answers -->
 
@@ -94,7 +94,7 @@ This tutorial shows how you can create a feature class and populate it with poin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9LGPCDMUP2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [**Question 4**](/Assessment.md#question-4)
+### [**Question 4**](/Module1_GEOS270/docs/Assessment.html#question-4)
 What is the first step when creating a new point layer?
 <!-- Create point feature class in the project geodatabase -->
 
