@@ -35,7 +35,7 @@ Go to the [Introducing ArcGISPro](https://pro.arcgis.com/en/pro-app/latest/get-s
 </div>
 <a href="Part1_Author.mp4" target="_blank">View Image in New Tab</a>
 
-## [**File Submission 1**](/docs/Assessment.md#file-submission-1)
+## [**File Submission 1**](/Module1_GEOS270/docs/Assessment.md#file-submission-1)
 
 Save the layout as a .pdf, name it *Central_Wellington_Layout.pdf* and upload it to canvas.
 * To save your layout reference the image below. 1) CLick Share. 2) Click Layout Export.  3) Specify the output location and name your file.  Its best to use your Lab1_Project workspace so you can easily find this when its time to submit you map.  4) Click Export.
