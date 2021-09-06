@@ -57,7 +57,7 @@ Save the layout as a .pdf, name it *Central_Wellington_Layout.pdf* and upload it
 
 # More Tutorial Videos
 ESRI offers quite a few tutorials on ArcGIS Pro.  Feel free to work though them if you have time!  But we're just going to watch the overview videos from four tutorials to learn a bit more about what we can do with ArcGIS Pro.  Go to each of the following tutorial pages and watch the overview videos then answer the questions below.
-
+---
 ## [Explore your data](https://pro.arcgis.com/en/pro-app/latest/get-started/explore-your-data.htm)
   * This tutorial shows you how you can interact with and explore data layers.
 
@@ -66,15 +66,13 @@ What does the select layer by attributes tool do?
 <!-- Find features that meet specific [criteria] - create multiple choice/ fill in the blank -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p8ZeOffTG-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+---
 ## [Make a layout](https://pro.arcgis.com/en/pro-app/latest/get-started/add-maps-to-a-layout.htm)
   * This tutorial shows you how you can use map layouts to visualize data.
 
 ### [**Question 2**](Assessment.md#question-2)
 What is a Layout in ArcGIS Pro?
-<!-- A way to export a map to print formats -->
-<!-- A way to export a map to digital formats -->
-<!-- A way to export a map to numerous formats -->
+<!-- A way to put a ___[Map] on a page - make fill in the blank -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NZ9ei4-23MM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

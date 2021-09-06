@@ -24,6 +24,9 @@ What tool is used to create this 1500 meter zone around the campsites?
 ### [**Question 4**](Application_Part1.md#question-4)
 What is the first step when creating a new point layer?
 
+### [**Question 5**](Application_Part2.md#question-5)
+How many cholera deaths were recorded in this outbreak?  What many locations (points) are in the dataset?  What is the highest number of deaths at one location?
+
 ---
 
 # File Submissions
@@ -41,7 +44,7 @@ Save your layout as a .pdf and submit it to canvas.
 
 # Written Answers
 
-### [**Written Submission 1**](/Content/History_SpatialAnalysis.md#written-submission-1)
+### [**Written Submission 1**](Content_Part3.md#written-submission-1)
 
 In your own words, what is belief perseverance?  Give your own example of belief perseverance.  This can be a historical example or one from your own personal experience.
 
