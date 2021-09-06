@@ -20,7 +20,7 @@ Follow the steps as outlined and refer to the video below to add a new layout.
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="AddLayout.mp4" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/videos/AddLayout.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -30,7 +30,7 @@ Follow the steps as outlined and refer to the video below to add a new layout.
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="AddLayout.mp4" target="_blank">View Image in New Tab</a>
+<a href="content/videos/AddLayout.mp4" target="_blank">View Image in New Tab</a>
 
 ## Adding Map Elements
 Follow the steps as outlined and refer to the video below to add the necessary map elements.
@@ -57,7 +57,7 @@ Follow the steps as outlined and refer to the video below to add the necessary m
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="MapElements.mp4" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/videos/MapElements.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -67,7 +67,7 @@ Follow the steps as outlined and refer to the video below to add the necessary m
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="MapElements.mp4" target="_blank">View Image in New Tab</a>
+<a href="content/videos/MapElements.mp4" target="_blank">View Image in New Tab</a>
 
 
 ## [**File Submission 2**](/Assessment.md#file-submission-2)
@@ -79,7 +79,7 @@ Save your layout as a .pdf and submit it to canvas.
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="Final_Map.png" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/images/Final_Map.png" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -89,7 +89,7 @@ Save your layout as a .pdf and submit it to canvas.
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="Final_Map.png" target="_blank">View Image in New Tab</a>
+<a href="content/images/Final_Map.png" target="_blank">View Image in New Tab</a>
 
 
 ## Save your project.

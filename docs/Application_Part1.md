@@ -3,7 +3,7 @@ layout: default
 title: ArcGIS Pro Tutorial
 parent: Application
 grand_parent: Module 1
-nav_order: 2
+nav_order: 1
 ---
 
 1. TOC
@@ -23,7 +23,7 @@ Go to the [Introducing ArcGISPro](https://pro.arcgis.com/en/pro-app/latest/get-s
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="Part1_Author.mp4" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/videos/Part1_Author.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -33,9 +33,9 @@ Go to the [Introducing ArcGISPro](https://pro.arcgis.com/en/pro-app/latest/get-s
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="Part1_Author.mp4" target="_blank">View Image in New Tab</a>
+<a href="content/videos/Part1_Author.mp4" target="_blank">View Image in New Tab</a>
 
-## [**File Submission 1**](/Module1_GEOS270/docs/Assessment.html#file-submission-1)
+## [**File Submission 1**](Assessment.md#file-submission-1)
 
 Save the layout as a .pdf, name it *Central_Wellington_Layout.pdf* and upload it to canvas.
 * To save your layout reference the image below. 1) CLick Share. 2) Click Layout Export.  3) Specify the output location and name your file.  Its best to use your Lab1_Project workspace so you can easily find this when its time to submit you map.  4) Click Export.
@@ -43,7 +43,7 @@ Save the layout as a .pdf, name it *Central_Wellington_Layout.pdf* and upload it
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="ExportLayout.png" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/images/ExportLayout.png" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -53,7 +53,7 @@ Save the layout as a .pdf, name it *Central_Wellington_Layout.pdf* and upload it
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="ExportLayout.png" target="_blank">View Image in New Tab</a>
+<a href="content/images/ExportLayout.png" target="_blank">View Image in New Tab</a>
 
 # More Tutorial Videos
 ESRI offers quite a few tutorials on ArcGIS Pro.  Feel free to work though them if you have time!  But we're just going to watch the overview videos from four tutorials to learn a bit more about what we can do with ArcGIS Pro.  Go to each of the following tutorial pages and watch the overview videos then answer the questions below.
@@ -61,7 +61,7 @@ ESRI offers quite a few tutorials on ArcGIS Pro.  Feel free to work though them 
 ## [Explore your data](https://pro.arcgis.com/en/pro-app/latest/get-started/explore-your-data.htm)
   * This tutorial shows you how you can interact with and explore data layers.
 
-### [**Question 1**](/Module1_GEOS270/docs/Assessment.html#question-1)
+### [**Question 1**](Assessment.md#question-1)
 What does the select layer by attributes tool do?
 <!-- Find features that meet specific [criteria] - create multiple choice/ fill in the blank -->
 
@@ -70,7 +70,7 @@ What does the select layer by attributes tool do?
 ## [Make a layout](https://pro.arcgis.com/en/pro-app/latest/get-started/add-maps-to-a-layout.htm)
   * This tutorial shows you how you can use map layouts to visualize data.
 
-### [**Question 2**](/Module1_GEOS270/docs/Assessment.html#question-2)
+### [**Question 2**](Assessment.md#question-2)
 What is a Layout in ArcGIS Pro?
 <!-- A way to export a map to print formats -->
 <!-- A way to export a map to digital formats -->
@@ -82,7 +82,7 @@ What is a Layout in ArcGIS Pro?
 
 This tutorial shows a few of the ways you can analyze geospatial data and see how different layers interact.
 
-### [**Question 3**](/Module1_GEOS270/docs/Assessment.html#question-3)
+### [**Question 3**](Assessment.md#question-3)
 What tool is used to create this 1500 meter zone around the campsites?
 <!-- Buffer - Create Multiple choice w/ answers -->
 
@@ -94,7 +94,7 @@ This tutorial shows how you can create a feature class and populate it with poin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9LGPCDMUP2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### [**Question 4**](/Module1_GEOS270/docs/Assessment.html#question-4)
+### [**Question 4**](Assessment.md#question-4)
 What is the first step when creating a new point layer?
 <!-- Create point feature class in the project geodatabase -->
 

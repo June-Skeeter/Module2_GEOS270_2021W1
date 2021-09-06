@@ -14,7 +14,7 @@ The earliest maps presented diverse and abstract representations of reality.  Th
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="EarlyHistoy.html" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/EarlyHistoy.html" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -24,7 +24,7 @@ The earliest maps presented diverse and abstract representations of reality.  Th
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="EarlyHistoy.html" target="_blank">View slides in new tab</a>
+<a href="content/EarlyHistoy.html" target="_blank">View slides in new tab</a>
 
 ## Systematic Data Collection
 As agricultural societies coalesced and grew methods for the systematic collection of information were developed and the first surveys were conducted.  Methods were needed to conduct agricultural surveys, construct buildings, and create plan settlements.  Objects needed to be drawn to scale for accurate representations.
@@ -32,7 +32,7 @@ As agricultural societies coalesced and grew methods for the systematic collecti
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="Surveys.html" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/Surveys.html" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -42,7 +42,7 @@ As agricultural societies coalesced and grew methods for the systematic collecti
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="Surveys.html" target="_blank">View slides in new tab</a>
+<a href="content/Surveys.html" target="_blank">View slides in new tab</a>
 
 
 

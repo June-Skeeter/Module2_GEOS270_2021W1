@@ -49,7 +49,7 @@ The cholera deaths have already been digitized. Follow the steps as outlined and
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="AddData.mp4" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/videos/AddData.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -59,7 +59,7 @@ The cholera deaths have already been digitized. Follow the steps as outlined and
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="AddData.mp4" target="_blank">View Image in New Tab</a>
+<a href="content/videos/AddData.mp4" target="_blank">View Image in New Tab</a>
 
 ## **Question 8)**
 How many cholera deaths were recorded in this outbreak?
@@ -68,7 +68,7 @@ How many cholera deaths were recorded in this outbreak?
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="Statistics.png" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/images/Statistics.png" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -78,7 +78,7 @@ How many cholera deaths were recorded in this outbreak?
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="Statistics.png" target="_blank">View Image in New Tab</a>
+<a href="content/images/Statistics.png" target="_blank">View Image in New Tab</a>
 
 # Creating the pumps layer
 
@@ -102,7 +102,7 @@ Using the steps outlined in the video on creating point features, we are going t
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="NewPoint.mp4" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/videos/NewPoint.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -112,7 +112,7 @@ Using the steps outlined in the video on creating point features, we are going t
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="NewPoint.mp4" target="_blank">View Image in New Tab</a>
+<a href="content/videos/NewPoint.mp4" target="_blank">View Image in New Tab</a>
 
 ## Digitizing the Broad St. pump
 
@@ -140,7 +140,7 @@ Now we are going to digitize the location of the Broad St. Pump.  Follow the ste
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="Digitize.mp4" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/videos/Digitize.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -150,7 +150,7 @@ Now we are going to digitize the location of the Broad St. Pump.  Follow the ste
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="Digitize.mp4" target="_blank">View Image in New Tab</a>
+<a href="content/videos/Digitize.mp4" target="_blank">View Image in New Tab</a>
 
 # Changing the Symbology
 
@@ -166,7 +166,7 @@ Now we are going to change the symbology of the Deaths and Broad St. Pump so tha
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="ChangeSymbology.mp4" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/videos/ChangeSymbology.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -176,7 +176,7 @@ Now we are going to change the symbology of the Deaths and Broad St. Pump so tha
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="ChangeSymbology.mp4" target="_blank">View Image in New Tab</a>
+<a href="content/videos/ChangeSymbology.mp4" target="_blank">View Image in New Tab</a>
 
 ## Adding Labels
 
@@ -192,7 +192,7 @@ Now we are going to add a label to Broad St. Pump so the map reader can identify
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="Labels.mp4" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/videos/Labels.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -202,7 +202,7 @@ Now we are going to add a label to Broad St. Pump so the map reader can identify
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="Labels.mp4" target="_blank">View Image in New Tab</a>
+<a href="content/videos/Labels.mp4" target="_blank">View Image in New Tab</a>
 
 
 ## Symbolize by Count
@@ -219,7 +219,7 @@ Lets adjust the symbology so the Deaths feature class points are scaled by the n
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="Graduated.mp4" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/videos/Graduated.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -229,7 +229,7 @@ Lets adjust the symbology so the Deaths feature class points are scaled by the n
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="Graduated.mp4" target="_blank">View Image in New Tab</a>
+<a href="content/videos/Graduated.mp4" target="_blank">View Image in New Tab</a>
 
 
 # Save your project.

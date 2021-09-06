@@ -20,7 +20,7 @@ There are numerous ways to analyze the spatial distribution of a dataset.  The [
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="Distribution.png" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/images/Distribution.png" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -30,7 +30,7 @@ There are numerous ways to analyze the spatial distribution of a dataset.  The [
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="Distribution.png" target="_blank">View Image in New Tab</a>
+<a href="content/images/Distribution.png" target="_blank">View Image in New Tab</a>
 
 
 ### [**Written Submission 3**](/Assessment.md#written-submission-3)
@@ -53,7 +53,7 @@ A more advanced method is [Kernel Density](https://pro.arcgis.com/en/pro-app/lat
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="KD.mp4" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/videos/KD.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -63,7 +63,7 @@ A more advanced method is [Kernel Density](https://pro.arcgis.com/en/pro-app/lat
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="KD.mp4" target="_blank">View Image in New Tab</a>
+<a href="content/videos/KD.mp4" target="_blank">View Image in New Tab</a>
 
 ### [**Written Submission 4**](/Assessment.md#written-submission-3)
 

@@ -1,13 +1,30 @@
 ---
 layout: default
-title: Setup
-parent: Application
-grand_parent: Module 1
-nav_order: 1
+title: Application
+# parent: Module 1
+has_children: True
+nav_order: 3
 ---
+
+
 
 1. TOC
 {:toc}
+
+
+
+# Getting Started with ArcGIS Pro:
+
+## Revisiting the Foundations of Epidemiology
+
+### Learning Objectives:
+
+* Get your bearings with ArcGSI Pro
+* Introduction to spatial analysis
+* Brief overview of Digitizing and Georeferencing
+* Create and share a map
+
+
 
 ## Accessing ArcGIS Pro
 
@@ -22,7 +39,7 @@ The first step is opening ArcPro.  You can find it using the Windows start tab o
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="New_Project.png" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/images/New_Project.png" title="Processes" scrolling="no" frameborder="0"
 
     style="border: 0;
    height: 100%;
@@ -33,7 +50,7 @@ The first step is opening ArcPro.  You can find it using the Windows start tab o
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="New_Project.png" target="_blank">View Image in New Tab</a>
+<a href="content/images/New_Project.png" target="_blank">View Image in New Tab</a>
 
 
 
@@ -43,7 +60,7 @@ Lets download the data we need and put it in our newly created project folder.  
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="Download.png" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/images/Download.png" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -53,7 +70,7 @@ Lets download the data we need and put it in our newly created project folder.  
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="Download.png" target="_blank">View Image in New Tab</a>
+<a href="content/images/Download.png" target="_blank">View Image in New Tab</a>
 
 Open the windows file explorer (folder on bottom ribbon or search the start menu).  Navigate to the downloads folder.  You will see a folder called "CholeraOutbreak_1854.gdb", note the type "Compressed (zipped) Folder" and size 11709 KB.  Right click on the CholeraOutbreak_1854.gdb, choose a zip file manager, and select "Extract files".
 * Zip files (.zip) are a method for compressing data so it can be stored and transfered more efficiently.  However, to work with the data, we have to extract it.
@@ -62,7 +79,7 @@ Open the windows file explorer (folder on bottom ribbon or search the start menu
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="Extract.png" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/images/Extract.png" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -72,7 +89,7 @@ Open the windows file explorer (folder on bottom ribbon or search the start menu
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="Extract.png" target="_blank">View Image in New Tab</a>
+<a href="content/images/Extract.png" target="_blank">View Image in New Tab</a>
 
 In the pop up window, set your Lab1_Project folder as the Extract to location.
 * The lab data is now downloaded and stored in your project folder.
@@ -80,7 +97,7 @@ In the pop up window, set your Lab1_Project folder as the Extract to location.
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="Unzip.png" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/images/Unzip.png" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -90,4 +107,4 @@ In the pop up window, set your Lab1_Project folder as the Extract to location.
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="Unzip.png" target="_blank">View Image in New Tab</a>
+<a href="content/images/Unzip.png" target="_blank">View Image in New Tab</a>

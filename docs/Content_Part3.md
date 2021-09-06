@@ -30,7 +30,7 @@ In 1847, the new chief resident Ignaz Semmelweis suspected contagions from the c
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="images/ViennaHospital.png" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/images/ViennaHospital.png" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 90%;
    left: 0;
@@ -40,13 +40,13 @@ In 1847, the new chief resident Ignaz Semmelweis suspected contagions from the c
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="images/ViennaHospital.png" target="_blank">View Image in New Tab</a>
+<a href="content/images/ViennaHospital.png" target="_blank">View Image in New Tab</a>
 
 ## Belief Perseverance
 In the face of mounting evidence many doctors and public officials stubbornly refused to acknowledge that basic hygiene and sanitation could save lives for decades because they were attached to the Miasma theory.  Some were also offended by the idea that physicians themselves were vectors for disease transmission because [*"a gentleman's hands are clean"*](https://en.wikipedia.org/wiki/Charles_Delucena_Meigs).  Rejection of sanitary practices in the European medical community is an example of [belief perseverance](https://en.wikipedia.org/wiki/Belief_perseverance).  Historically, this is a common issue that has impeded numerous scientific advancements (eg. plate tectonics, climate change, vaccines, etc).  Belief perseverance has many causes but it is often exacerbated by misogyny, racism, and ethnocentrism (eg. Rossiter 1993).
 
 
-### [**Written Submission 1**](/Assessment.md#written-submission-1)
+### [**Written Submission 1**](Assessment.md#written-submission-1)
 
 In your own words, what is belief perseverance?  Give your own example of belief perseverance.  This can be a historical example or one from your own personal experience.
 
@@ -65,7 +65,7 @@ We are going to replicate one of the foundational studies in [Epidemiology](http
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="images/Snow_Map.jpg" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/images/Snow_Map.jpg" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -75,7 +75,7 @@ We are going to replicate one of the foundational studies in [Epidemiology](http
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="images/Snow_Map.jpg" target="_blank">View Image in New Tab</a>
+<a href="content/images/Snow_Map.jpg" target="_blank">View Image in New Tab</a>
 
 
 
