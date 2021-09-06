@@ -12,7 +12,7 @@ nav_order: 4
 
 # Questions
 
-### [**Question 1**](/Application/Files/Part1.md#question-1)
+### [**Question 1**](./Application/Files/Part1.md#question-1)
 What does the select layer by attributes tool do?
 
 ### [**Question 2**](/Application/Files/Part1.md#question-2)
