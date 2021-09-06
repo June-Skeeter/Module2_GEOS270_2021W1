@@ -28,7 +28,7 @@ What is the first step when creating a new point layer?
 
 # File Submissions
 
-### [**File Submission 1**](/Application/Files/Part1.md)  
+### [**File Submission 1**](/Application/Files/Part1.md#file-submission-1)
 
 Save the layout as a .pdf, name it Central_Wellington_Layout.pdf and upload it to canvas.
 
