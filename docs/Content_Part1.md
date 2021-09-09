@@ -45,10 +45,9 @@ As agricultural societies coalesced and grew methods for the systematic collecti
 <a href="content/Surveys.html" target="_blank">View slides in new tab</a>
 
 
+## Navigation & Exploration
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kpmZ4ZzoaYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## The Compass
+### The Compass
 
 Invented multiple times
 Olmec society
@@ -57,19 +56,4 @@ Han dynasty
 First used for navigation in China ~ 1000 B.P.
 Made its way to Europe around 800 B.P.
 
-## Line of Sight Methods
-
-Measurements of angles allows surveying of larger areas and over greater distances
-Bearings
-Distances
-Elevations
-Sizes
-
-### Gormatici
-
-The Roman empire employed professional surveyors
-Massive road network
-Agricultural land registry
-“Urban” planning
-
-
+### Sitck charts

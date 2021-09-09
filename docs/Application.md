@@ -55,7 +55,7 @@ The first step is opening ArcPro.  You can find it using the Windows start tab o
 
 
 ## Download Data.
-Lets download the data we need and put it in our newly created project folder.  Follow [this link](https://github.com/June-Skeeter/GEOB270_Lab1_2021S1/blob/master/lab1_data/CholeraOutbreak_1854.gdb.zip).  Click the download.  If a pop up appears, choose save, the file will be saved in the downloads folder.
+Lets download the data we need and put it in our newly created project folder.  Follow [this link](https://github.com/June-Skeeter/Module1_GEOS270/blob/main/data/CholeraOutbreak_1854.gdb.zip).  Click the download button.  If a pop up appears, choose save, the file will be saved in the downloads folder.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
