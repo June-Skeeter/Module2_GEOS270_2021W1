@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Importing Dr. Snow's Data
+title: Case Study
 parent: Application
 grand_parent: Module 1
 nav_order: 3
@@ -11,7 +11,9 @@ nav_order: 3
 {:toc}
 
 
-# Importing Dr. Snow's Data
+# Foundations of Epidemiology
+
+We are going to replicate one of the foundational studies in [Epidemiology](https://en.wikipedia.org/wiki/Epidemiology) and the closely related field of [Health Geography](https://en.wikipedia.org/wiki/Health_geography) using modern GIS techniques.  We'll cover the context of why this is important in [lecture](/Foundations of Epidemiology).
 
 ## Bringing Historical Data into a GIS
 
