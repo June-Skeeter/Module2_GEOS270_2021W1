@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spatial Analysis Methods
+title: Foundations of Epidemiology
 parent: Content
 grand_parent: Module 1
 nav_order: 3
@@ -49,10 +49,6 @@ In your own words, what is belief perseverance?  Give your own example of belief
 
 
 # Foundations of Epidemiology
-
-We are going to replicate one of the foundational studies in [Epidemiology](https://en.wikipedia.org/wiki/Epidemiology) and the closely related field of [Health Geography](https://en.wikipedia.org/wiki/Health_geography) using modern GIS techniques.  
-
-## Applying Modern Methods to the 1854 Cholera Outbreak
 
 [Dr. John Snow](https://en.wikipedia.org/wiki/John_Snow#Cholera) was a physician practicing in London where cholera outbreaks were a frequent occurrence due to poor sanitation practices.  Dr. Snow was a skeptic of the miasma theory and a proponent of germ theory.  In 1849 he proposed cholera that it was spread by fecal contaminated water, after comparing cholera rates between London districts supplied by different water companies.
 * Five years later, during an outbreak in London's SoHo neighborhood in 1854, Dr. Snow was able to identify the point source of an the outbreak using a hand-sketched map.  He recorded each case of cholera in the area using a dash, and recorded each water pump with a circled dot, creating what today would be called a ‘dot map.’ By recording clusters of disease, and conducting interviews, Snow was able to trace most cases of the outbreak to a single water pump, located on Broad st.

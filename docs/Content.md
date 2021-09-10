@@ -61,3 +61,9 @@ During the course introduction I said that GIS has historically been used as a t
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pu2sKNJMH-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+### [**Written Submission C1**](Assessment.md#written-submission-c1)
+
+Redlining was done using paper maps and manual surveys.  The GISystems today are so much more powerful and capable.  
