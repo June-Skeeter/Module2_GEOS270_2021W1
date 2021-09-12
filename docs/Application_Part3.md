@@ -33,7 +33,7 @@ There are numerous ways to analyze the spatial distribution of a dataset.  The [
 <a href="content/images/Distribution.png" target="_blank">View Image in New Tab</a>
 
 
-### [**Written Submission 3**](/Assessment.md#written-submission-3)
+### [**Written Answer 2**](/Assessment.md#written-answer-2)
 
 What do the mean center and directional distribution tell us about a set of points?
 
@@ -65,11 +65,11 @@ A more advanced method is [Kernel Density](https://pro.arcgis.com/en/pro-app/lat
 </div>
 <a href="content/videos/KD.mp4" target="_blank">View Image in New Tab</a>
 
-### [**Written Submission 4**](/Assessment.md#written-submission-3)
+### [**Written Answer 3**](/Assessment.md#written-answer-3)
 
 Why might Kernel Density might be more useful for identifying the source of a source(s) of a cholera outbreak outbreak than the mean center and directional distribution?
 
-### [**Written Submission 5**](/Assessment.md#written-submission-4)
+### [**Written Answer 4**](/Assessment.md#written-answer-4)
 What are the effects of changing the "Output cell size" and "Area unit"?
 
 ## Save your project.

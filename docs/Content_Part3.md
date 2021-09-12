@@ -43,7 +43,7 @@ In 1847, the new chief resident Ignaz Semmelweis suspected contagions from the c
 In the face of mounting evidence many doctors and public officials stubbornly refused to acknowledge that basic hygiene and sanitation could save lives for decades because they were attached to the Miasma theory.  Some were also offended by the idea that physicians themselves were vectors for disease transmission because [*"a gentleman's hands are clean"*](https://en.wikipedia.org/wiki/Charles_Delucena_Meigs).  Rejection of sanitary practices in the European medical community is an example of [belief perseverance](https://en.wikipedia.org/wiki/Belief_perseverance).  Historically, this is a common issue that has impeded numerous scientific advancements (eg. plate tectonics, climate change, vaccines, etc).  Belief perseverance has many causes but it is often exacerbated by misogyny, racism, and ethnocentrism (eg. Rossiter 1993).
 
 
-### [**Written Submission 1**](Assessment.md#written-submission-1)
+### [**Written Answer 1**](Assessment.md#written-answer-1)
 
 In your own words, what is belief perseverance?  Give your own example of belief perseverance.  This can be a historical example or one from your own personal experience.
 
@@ -70,13 +70,20 @@ In your own words, what is belief perseverance?  Give your own example of belief
 </div>
 <a href="content/images/Snow_Map.jpg" target="_blank">View Image in New Tab</a>
 
+The history of spatial analysis is strongly linked to cartography and the development of geography as an academic discipline in the eighteenth and nineteenth centuries. It is now being used in a wide range of disciplines. In biology, spatial analysis can be used to analyze the spatial distribution of plant species or migration patterns of animals, economists use it within spatial econometrics and regional science, while criminologists can analyze the spatial distribution of crime patterns. Within the interdisciplinary field of quality of life research, there are many applications as methods of spatial analysis allow studying the spatial interrelationship of different factors impacting on the quality of life at a specific place.
 
+Maps are a fundamental tool, and the interpretation of spatial features on maps is a simple form of spatial analysis. While for a long time this was relying on paper maps, the development of Geographic Information Systems (GIS) since the 1960s and advancements in information technology means that more advanced forms of spatial analysis can be more easily applied. A GIS is at its core a database. Different to a normal database, it allows storing spatial information for each stored element. Furthermore, it allows visualization in the form of maps, and it contains a set of built-in spatial analytical tools. When storing features in a GIS, one has to simplify the complex reality into elements that the system can store and process. For example, streets and roads can be represented as line features within a GIS, buildings or urban blocks as polygons, and locations of social infrastructure as points. Apart from these types of vector datasets, modern GIS systems can also store and analyze raster datasets, most commonly based on satellite and aerial photography. The simplification of the complex reality in a GIS system means that one has to consider the phenomenon of ecological fallacy. These are errors in analysis due to limited resolution in aggregate datasets. In most cases, elements in a GIS are stored with two-dimensional spatial information, often referred to as x and y value, though most modern GIS also allow processing the third dimension of height, which allows, for example, the analysis of flooding phenomenon in hydrology or the simulation of microclimate in urban meteorology.
+
+ (Schulze Bäing, 2014)
 
 ## References
 
 Loudon, I. (2013). Ignaz Phillip Semmelweis’ studies of death in childbirth. Journal of the Royal Society of Medicine, 106(11), 461–463. https://doi.org/10.1177/0141076813507844
 
 Rossiter, M. W. (1993). The Matthew Matilda Effect in Science. Social Studies of Science, 23(2), 325–341.
+
+Schulze Bäing, A. (2014). Spatial Analysis. In A. C. Michalos (Ed.), Encyclopedia of Quality of Life and Well-Being Research (pp. 6259–6261). Springer Netherlands. https://doi.org/10.1007/978-94-007-0753-5_2818
+
 
 Varney, H., & Thompson, J. B. (2015). A History of Midwifery in the United States. Springer Publishing Company. https://connect.springerpub.com/content/book/978-0-8261-2538-5
 
