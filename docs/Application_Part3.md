@@ -7,10 +7,16 @@ nav_order: 4
 ---
 
 # Spatial Analysis
+{: .no_toc }
 
 We already know the Broad St. pump was the source of the outbreak, but lets explore a couple analysis techniques we could use to identify the source of the outbreak.
 
-## Measures of Central Tendency
+
+1. TOC
+{:toc}
+
+
+# Measures of Central Tendency
 
 There are numerous ways to analyze the spatial distribution of a dataset.  The [Mean Center](https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/mean-center.htm) and [Directional Distribution](https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/directional-distribution.htm) are two of the simplest measures.  Mean center gives you a single point around which the directional distribution creates an ellipse to show directional trends in the data.  You don't have to calculate these statistics, but skim the linked pages and look at the example below to understand what these methods do.
 * They can be weighted (eg. by the number of deaths per address).
@@ -33,11 +39,11 @@ There are numerous ways to analyze the spatial distribution of a dataset.  The [
 <a href="content/images/Distribution.png" target="_blank">View Image in New Tab</a>
 
 
-### [**Written Answer 2**](/Assessment.md#written-answer-2)
+### **WA2**
 
 What do the mean center and directional distribution tell us about a set of points?
 
-## Point Density
+# Point Density
 
 A more advanced method is [Kernel Density](https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-analyst/kernel-density.htm), which gives you a magnitude (eg. number of deaths) per unit area (eg. hectare).  Follow the steps as outlined and refer to the video below to calculate the Kernel Density of cholera deaths in Soho.
 
@@ -65,11 +71,11 @@ A more advanced method is [Kernel Density](https://pro.arcgis.com/en/pro-app/lat
 </div>
 <a href="content/videos/KD.mp4" target="_blank">View Image in New Tab</a>
 
-### [**Written Answer 3**](/Assessment.md#written-answer-3)
+### **WA3**
 
 Why might Kernel Density might be more useful for identifying the source of a source(s) of a cholera outbreak outbreak than the mean center and directional distribution?
 
-### [**Written Answer 4**](/Assessment.md#written-answer-4)
+### **WA4**
 What are the effects of changing the "Output cell size" and "Area unit"?
 
 ## Save your project.

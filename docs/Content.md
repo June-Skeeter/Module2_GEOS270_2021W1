@@ -32,15 +32,15 @@ During the course introduction I said that GIS has historically been used as a t
 * What political system you live under
 
 
-### Redlining Video
+## Redlining Video
 
-[Redlining](https://en.wikipedia.org/wiki/Redlining) is the systematic denial of services to racially marginalized groups by government and lending institutions in order to forcibly segregated communities.  Redlining has been more thoroughly documented and researched in the US.  The video below gives a thorough overview of the practice and how its negative impacts.  It is very important to note that [Redlining occurred in Canada as well](https://www.jstor.org/stable/43100660).  Much of what is talk about in the video applies the same on this side of the border.
+[Redlining](https://en.wikipedia.org/wiki/Redlining) is the systematic denial of services to racially marginalized groups by government and lending institutions in order to forcibly segregated communities.  For much of the 20th century, redlining was legal and wide speread across North Amerian cities.  The pracitce has been more thoroughly documented and researched in the US.  The video below gives a thorough overview of the practice and how its negative impacts.  It is very important to note that [Redlining occurred in Canada as well](https://www.jstor.org/stable/43100660).  Much of what is talk about in the video applies the same on this side of the border.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pu2sKNJMH-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### WC1
+
+What is redlining and what are some of its long lasting impacts?
 
 
-### [**Written Submission C1**](Assessment.md#written-submission-c1)
-
-Redlining was done using paper maps and manual surveys.  The GISystems today are so much more powerful and capable.  

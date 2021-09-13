@@ -7,15 +7,79 @@ nav_order: 3
 ---
 
 
+# Foundations of Epidemiology
+{: .no_toc }
+
+We are going to replicate one of the foundational studies in [Epidemiology](https://en.wikipedia.org/wiki/Epidemiology) and the closely related field of [Health Geography](https://en.wikipedia.org/wiki/Health_geography) using modern GIS techniques.  We'll discuss the context of why this is important in [lecture](Content_Part3.md).  
+
+
+
 1. TOC
 {:toc}
 
 
-# Foundations of Epidemiology
+# Download Data
+Lets download the data we need and put it in our newly created project folder.  Follow [this link](https://github.com/June-Skeeter/Module1_GEOS270/blob/main/data/CholeraOutbreak_1854.gdb.zip).  Click the download button.  If a pop up appears, choose save, the file will be saved in the downloads folder.
 
-We are going to replicate one of the foundational studies in [Epidemiology](https://en.wikipedia.org/wiki/Epidemiology) and the closely related field of [Health Geography](https://en.wikipedia.org/wiki/Health_geography) using modern GIS techniques.  We'll cover the context of why this is important in [lecture](/Foundations of Epidemiology).
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="content/images/Download.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="content/images/Download.png" target="_blank">View Image in New Tab</a>
 
-## Bringing Historical Data into a GIS
+## Extract the Data
+
+Open the windows file explorer (folder on bottom ribbon or search the start menu).  Navigate to the downloads folder.  You will see a folder called "CholeraOutbreak_1854.gdb", note the type "Compressed (zipped) Folder" and size 11709 KB.  Right click on the CholeraOutbreak_1854.gdb, choose a zip file manager, and select "Extract files".
+* Zip files (.zip) are a method for compressing data so it can be stored and transfered more efficiently.  However, to work with the data, we have to extract it.
+* On my computer, the 7-Zip is the .zip file manager.  If you are working on the geography department computers, you can uses PeaZip instead.  The specific options might differ, but the general principal is the same.
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="content/images/Extract.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="content/images/Extract.png" target="_blank">View Image in New Tab</a>
+
+### Save it to your Project Folder!
+
+In the pop up window, set your Lab1_Project folder as the Extract to location.
+* The lab data is now downloaded and stored in your project folder.
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="content/images/Unzip.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="content/images/Unzip.png" target="_blank">View Image in New Tab</a>
+
+
+
+# Bringing Historical Data into a GIS
 
 In order to get the map into a GIS, it has to be scanned and then [georeferenced](https://pro.arcgis.com/en/pro-app/latest/help/data/imagery/overview-of-georeferencing.htm).  To georeference a map like this, locations on the scanned map (eg. intersections) can be matched up to an existing map.
 * With enough matching points (>2), an accurate transformation can be calculated and the paper map can be projected over base map.  Watch the video linked below for a quick overview of georeferencing.
@@ -27,11 +91,11 @@ In order to get the map into a GIS, it has to be scanned and then [georeferenced
 Once the map has been scanned and georeferenced, we can extract information from it.  On Dr. Snow’s map, the key pieces of information are the cholera deaths and water pumps.  To get this information into the GIS, the points have to be manually identified and entered.  This process is known as digitizing, and was explained in the [Create points on a map](https://pro.arcgis.com/en/pro-app/latest/get-started/create-points-on-a-map.htm) video.  
 
 
-### [**Written Answer 1**](/Assessment.md#written-answer-1)
+### **WA1**
 
 In your own words, what does georeferencing do?
 
-## Adding the Deaths feature dataset.
+# Adding the Deaths feature dataset.
 The cholera deaths have already been digitized. Follow the steps as outlined and refer to the video below to add the Deaths data to the map.
 
 **1)** Open the catalog pane and navigate to your Lab1_Project.
@@ -63,8 +127,9 @@ The cholera deaths have already been digitized. Follow the steps as outlined and
 </div>
 <a href="content/videos/AddData.mp4" target="_blank">View Image in New Tab</a>
 
-### [**Question 5**](Assessment.md#question-5)
-How many cholera deaths were recorded in this outbreak?  What many locations (points) are in the dataset?  What is the highest number of deaths at one location?
+### **QA5**
+How many cholera deaths were recorded in this outbreak? ______ How many locations (points) are in the dataset? ______ What is the highest number of deaths at one location? ______
+
 
 <!-- Make into fill in the blank: Sum 545, Count 305, Max 15 -->
 

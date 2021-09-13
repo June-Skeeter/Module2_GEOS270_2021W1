@@ -43,11 +43,6 @@ In 1847, the new chief resident Ignaz Semmelweis suspected contagions from the c
 In the face of mounting evidence many doctors and public officials stubbornly refused to acknowledge that basic hygiene and sanitation could save lives for decades because they were attached to the Miasma theory.  Some were also offended by the idea that physicians themselves were vectors for disease transmission because [*"a gentleman's hands are clean"*](https://en.wikipedia.org/wiki/Charles_Delucena_Meigs).  Rejection of sanitary practices in the European medical community is an example of [belief perseverance](https://en.wikipedia.org/wiki/Belief_perseverance).  Historically, this is a common issue that has impeded numerous scientific advancements (eg. plate tectonics, climate change, vaccines, etc).  Belief perseverance has many causes but it is often exacerbated by misogyny, racism, and ethnocentrism (eg. Rossiter 1993).
 
 
-### [**Written Answer 1**](Assessment.md#written-answer-1)
-
-In your own words, what is belief perseverance?  Give your own example of belief perseverance.  This can be a historical example or one from your own personal experience.
-
-
 # Foundations of Epidemiology
 
 [Dr. John Snow](https://en.wikipedia.org/wiki/John_Snow#Cholera) was a physician practicing in London where cholera outbreaks were a frequent occurrence due to poor sanitation practices.  Dr. Snow was a skeptic of the miasma theory and a proponent of germ theory.  In 1849 he proposed cholera that it was spread by fecal contaminated water, after comparing cholera rates between London districts supplied by different water companies.
@@ -76,15 +71,10 @@ Maps are a fundamental tool, and the interpretation of spatial features on maps 
 
  (Schulze Bäing, 2014)
 
-## References
 
-Loudon, I. (2013). Ignaz Phillip Semmelweis’ studies of death in childbirth. Journal of the Royal Society of Medicine, 106(11), 461–463. https://doi.org/10.1177/0141076813507844
+---
 
-Rossiter, M. W. (1993). The Matthew Matilda Effect in Science. Social Studies of Science, 23(2), 325–341.
+### **WC2**
 
-Schulze Bäing, A. (2014). Spatial Analysis. In A. C. Michalos (Ed.), Encyclopedia of Quality of Life and Well-Being Research (pp. 6259–6261). Springer Netherlands. https://doi.org/10.1007/978-94-007-0753-5_2818
-
-
-Varney, H., & Thompson, J. B. (2015). A History of Midwifery in the United States. Springer Publishing Company. https://connect.springerpub.com/content/book/978-0-8261-2538-5
-
+In your own words, what is belief perseverance?  Give your own example of belief perseverance.  This can be a historical example or one from your own personal experience.
 

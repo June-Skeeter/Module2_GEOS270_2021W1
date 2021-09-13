@@ -8,67 +8,118 @@ nav_order: 4
 # Assessment
 {: .no_toc }
 
-You can use the course Canvas page to complete the quiz, written submission, files uploads.  I suggest you dowload the [assesment document](https://github.com/June-Skeeter/Module1_GEOS270/blob/main/docs/Assessment.md), write down your answers there as you progress through the Conent and Application sections.
+You can use the course Canvas page to complete the quiz, written submission, and files uploads.  I suggest you dowload the [assesment document](https://github.com/June-Skeeter/Module1_GEOS270/blob/main/docs/Assessment.md), write down your answers there as you progress through the Conent and Application sections.  Then upload your answers to canvas once you have finished the module.
 
 1. TOC
 {:toc}
 
-# Quiz
+---
+
+# Module Quiz (25 pts)
 
 All quiz answers are multiple choice, numeric input, fill in the blank, etc. type questions.  They can be submitted via the Module 1 Quiz that can be found on the Canvas page.
 
-## Application
+## Applicaton Questions (10 pts)
 
-### [**Question 1**](Application_Part1.html#question-1)
+[**QA1**](Application_Part1.md#qa1)
 What does the select layer by attributes tool do?
 
-### [**Question 2**](Application_Part1.html#question-2)
-What is a Layout in ArcGIS Pro?
+- Find features that meet specific criteria.
+- Find features that are in a specific area.
+- Find features based on their spatial relationship to other features.
 
-### [**Question 3**](Application_Part1.html#question-3)
+[**QA2**](Application_Part1.md#qa2)
+A Layout in ArcGIS Pro is a way to put a ______ on a page.
+
+[**QA3**](Application_Part1.md#qa3)
 What tool is used to create this 1500 meter zone around the campsites?
 
-### [**Question 4**](Application_Part1.html#question-4)
+- Buffer
+- Select by location
+- Intersect
+- Select by attribute
+
+[**QA4**](Application_Part1.md#qa4)
 What is the first step when creating a new point layer?
 
-### [**Question 5**](Application_Part2.html#question-5)
-How many cholera deaths were recorded in this outbreak?  What many locations (points) are in the dataset?  What is the highest number of deaths at one location?
+- Create point feature class in the project geodatabase
+- Create a polygon feature class in the project geodatabase
+- Create a raster dataset
+- Make sure you are zoomed into your area of interest.
 
-## Content
+[**QA5**](Application_Part2.md#qa5)
+How many cholera deaths were recorded in this outbreak? ______ How many locations (points) are in the dataset? ______ What is the highest number of deaths at one location? ______
 
 ---
 
-# Assignment
+## Content Questions (15 pts)
 
-## Application
+[**QC1**](Content_Part1.md#qc1) 
+Cartography developed in many cultures around the world independently [T/F]
 
-### [**Written Answer 1**](Application_Part2.html#written-answer-1)
+[**QC2**](Content_Part1.md#qc2)
+A ______ is a naturally occurring magnet.  They were first used by both the ______ civilization in Mexico to orient their buildings and towns.
 
+[**QC3**](Content_Part1.md#qc3)
+The compass as we know it today originated in China during the ______ was first used for navigation during the ______.
+
+[**QC4**](Content_Part2.md#qc4) 
+Geographia is the oldest known example of an  ______ and can be considered the first ______ because it stored geographic information in a systematic way and even had an ______ of place names.
+
+[**QC5**](Content_Part2.md#qc5) 
+The ______ projection revolutionized navigation because mariners could use it to navigate anywhere in the world by following a constant ______.  However, it is problematic for modern day use because it ______ the size of landmasses farther from the equator.  
+
+[**QC6**](Content_Part4.md#qc6) 
+The numbered treaties were negotiated in a fair and balanced way and the thanks to the systematic collection and dissemination of geographic information, all parties had access to the same information when conducting negotiations.  
+
+
+[**QC7**](Content_Part4.md#qc7) 
+The ______ aimed to map lands in Canada based on their ______ for agriculture, forestry, recreation and wildlife.  It was the first ______ based geographic database and led to significant advancements in ______.
+
+[**QC8**](Content_Part5.md#qc8) 
+______ GIS software has closed source code and oftent reuires users to buy expensive licenses.  
+
+[**QC9**](Content_Part5.md#qc9) 
+______ GIS is free to use and download, and the source code is open to the public for inspection, editing, and updating.  
+ 
+
+---
+
+# Module Assignment (75 pts)
+
+## Applicaton Questions (50 pts)
+
+### Wrtitten Answers (25 pts)
+
+[**WA1**](Application_Part2.md#wa1)
 In your own words, what does georeferencing do?
 
-### [**Written Answer 2**](Application_Part3.html#written-answer-2)
-
+[**WA2**](Application_Part3.md#wa2)
 What do the mean center and directional distribution tell us about a set of points?
 
-### [**Written Answer 3**](Application_Part3.html#written-answer-3)
-
+[**WA3**](Application_Part3.md#wa3)
 Why might Kernel Density might be more useful for identifying the source of a source(s) of a cholera outbreak outbreak than the mean center and directional distribution?
 
-### [**Written Answer 4**](Application_Part3.html#written-answer-4)
+[**WA4**](Application_Part3.md#wa4)
 What are the effects of changing the "Output cell size" and "Area unit"?
 
-### [**Map Submission 1**](Application_Part1.html#file-submission-1)
+### File Submissions (25 pts)
 
-Save the layout as a .pdf, name it Central_Wellington_Layout.pdf and upload it to canvas.
+[**FA1**](Application_Part1.md#fa1)
+Save the layout as a .pdf, name it *Central_Wellington_Layout.pdf* and upload it to canvas.
 
-### [**Map Submission 2**](Application_Part4.html#file-submission-2)
-
-Save your layout as a .pdf and submit it to canvas.
+[**FA2**](Application_Part4.md#fa2)
+Save the layout as a .pdf, name it *Kernel_Density.pdf* and upload it to canvas.
 
 ---
 
-## Content
+## Content Questions (25 pts)
 
-### [**Written Answer 1**](Content_Part3.html#written-answer-1)
+[**WC1**](Content.md#wc1)
+What is redlining and what are some of its long lasting impacts?
 
+[**WC2**](Content_Part3.md#wc2)
 In your own words, what is belief perseverance?  Give your own example of belief perseverance.  This can be a historical example or one from your own personal experience.
+
+---
+

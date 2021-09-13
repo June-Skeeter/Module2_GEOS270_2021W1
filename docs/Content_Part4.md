@@ -1,41 +1,61 @@
 ---
 layout: default
-title: Canadian Expansion & Development of GIS
+title: Canadian Expansion & The First Digital GIS
 parent: Content
 grand_parent: Module 1
 nav_order: 5
 ---
 
 
-# National Surveying
 
-Geologic Survey of Canada (GSC)
-Canada’s first Scientific Agency
-Mapping Mineral Deposits
-Promoted expansion
+# Canadian Expansion
 
+The British and subsequent Canadian government's grab for power across this landmass was heavily dependent upon cartography.  Maps and surveys were leveraged by those in power exploit resources and oppress Indigenous peoples.
 
-# Canadian Pacific (CP) Railway
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="content/Expansion.html" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="content/Expansion.html" target="_blank">View slides in new tab</a>
 
-Building on GSC Surveys
-CP granted 25 million acres valuable land, sold it for $2.50/acre to European colonists
-Displacement of First Nations
+# The First Digital GIS
 
+The first computer based GIS was invented in Canada.
 
-# Canada Land Inventory
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="content/Expansion.html" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="content/Expansion.html" target="_blank">View slides in new tab</a>
 
-Mapped suitability of lands for:
-Agriculture, forestry, recreation and wildlife
-Led to the creation of the first GIS:
-Canadian Geographic Information System
-First geographic database
-Advances in spatial analysis
+---
 
+### QC6
 
+The numbered treaties were negotiated in a fair and balanced way and the thanks to the systematic collection and dissemination of geographic information, all parties had access to the same information when conducting negotiations.  
 
-# Expansion and Proliferation
+<!-- Canada Land Inventory, suitability, computer, spatial analysis -->
 
-Improvements in hardware led to the proliferation of GIS software
-Commercial became available in the 80’s expanding the userbase
-Open source and web based GIS have begun to proliferate more recently
+### QC7
 
+The ______ aimed to map lands in Canada based on their ______ for agriculture, forestry, recreation and wildlife.  It was the first ______ based geographic database and led to significant advancements in ______.
+
+<!-- Canada Land Inventory, suitability, computer, spatial analysis -->
