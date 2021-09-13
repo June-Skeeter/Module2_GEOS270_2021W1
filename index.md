@@ -7,6 +7,8 @@ nav_order: 1
 ---
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nhcZ1av7cr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Module 1
 {: .no_toc }
 
@@ -48,8 +50,6 @@ In your lab section, you will work through the Application portion of the Module
 
 ## Broad overview of ArcGIS Software
 * Develop familiarity with ArcGIS Pro
-* Understand the differences between open source and proprietary applications
-    * Become aware of open source options
 
 # Deliverables
 
