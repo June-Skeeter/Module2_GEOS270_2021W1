@@ -6,6 +6,15 @@ grand_parent: Module 1
 nav_order: 3
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+---
 
 # Miasma vs. Germ Theory
 
@@ -65,11 +74,7 @@ In the face of mounting evidence many doctors and public officials stubbornly re
 </div>
 <a href="content/images/Snow_Map.jpg" target="_blank">View Image in New Tab</a>
 
-The history of spatial analysis is strongly linked to cartography and the development of geography as an academic discipline in the eighteenth and nineteenth centuries. It is now being used in a wide range of disciplines. In biology, spatial analysis can be used to analyze the spatial distribution of plant species or migration patterns of animals, economists use it within spatial econometrics and regional science, while criminologists can analyze the spatial distribution of crime patterns. Within the interdisciplinary field of quality of life research, there are many applications as methods of spatial analysis allow studying the spatial interrelationship of different factors impacting on the quality of life at a specific place.
 
-Maps are a fundamental tool, and the interpretation of spatial features on maps is a simple form of spatial analysis. While for a long time this was relying on paper maps, the development of Geographic Information Systems (GIS) since the 1960s and advancements in information technology means that more advanced forms of spatial analysis can be more easily applied. A GIS is at its core a database. Different to a normal database, it allows storing spatial information for each stored element. Furthermore, it allows visualization in the form of maps, and it contains a set of built-in spatial analytical tools. When storing features in a GIS, one has to simplify the complex reality into elements that the system can store and process. For example, streets and roads can be represented as line features within a GIS, buildings or urban blocks as polygons, and locations of social infrastructure as points. Apart from these types of vector datasets, modern GIS systems can also store and analyze raster datasets, most commonly based on satellite and aerial photography. The simplification of the complex reality in a GIS system means that one has to consider the phenomenon of ecological fallacy. These are errors in analysis due to limited resolution in aggregate datasets. In most cases, elements in a GIS are stored with two-dimensional spatial information, often referred to as x and y value, though most modern GIS also allow processing the third dimension of height, which allows, for example, the analysis of flooding phenomenon in hydrology or the simulation of microclimate in urban meteorology.
-
- (Schulze Bäing, 2014)
 
 
 ---

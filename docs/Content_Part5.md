@@ -6,6 +6,15 @@ grand_parent: Module 1
 nav_order: 6
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+---
 
 # Proliferation of GIS
 
@@ -31,7 +40,7 @@ GIS has become a powerful tool for GIS in recent years.
 
 ### QC8
 
-______ GIS software has closed source code and oftent reuires users to buy expensive licenses.  
+______ GIS software has closed source code and often requires users to buy expensive licenses.  
 
 ### Q9
 
