@@ -73,7 +73,7 @@ A ______ is a naturally occurring magnet.  They were first used by the ______ ci
 
 ### QC3
 
-The compass as we know it today originated in China during the _____ was first used for navigation during the ______.
+The compass as we know it today originated in China during the _____ Dynasty was first used for navigation during the ______ Dynasty.
 
-<!-- Han Dynasty, Song Dynasty -->
+<!-- Han, Song -->
 
