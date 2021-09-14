@@ -67,7 +67,7 @@ Cartography developed in many cultures around the world independently [T/F]
 
 ### QC2
 
-A ______ is a naturally occurring magnet.  They were first used by both the ______ civilization in Mexico to orient their buildings and towns.
+A ______ is a naturally occurring magnet.  They were first used by the ______ civilization in present day Mexico to orient their buildings and towns.
 
 <!-- Lodestone, Olmec-->
 

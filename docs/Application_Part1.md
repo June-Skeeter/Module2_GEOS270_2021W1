@@ -88,12 +88,14 @@ A Layout in ArcGIS Pro is a way to put a ______ on a page.
 This tutorial shows a few of the ways you can analyze geospatial data and see how different layers interact.
 
 ### **QA3**
-What tool is used to create this 1500 meter zone around the campsites?
+What tool was used to create this 1500 meter zone around the campsites?
 
 - Buffer
 - Select by location
 - Intersect
 - Select by attribute
+
+<!-- Buffer -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hdkHhaYHXyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -105,9 +107,9 @@ This tutorial shows how you can create a feature class and populate it with poin
 
 ### **QA4**
 What is the first step when creating a new point layer?
-- Create point feature class in the project geodatabase
 - Create a polygon feature class in the project geodatabase
 - Create a raster dataset
 - Make sure you are zoomed into your area of interest. 
+- Create point feature class in the project geodatabase
 
 

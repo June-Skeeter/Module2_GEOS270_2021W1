@@ -65,6 +65,6 @@ Geographia is the oldest known example of an  ______ and can be considered the f
 
 ### QC5
 
-The ______ projection revolutionized navigation because mariners could use it to navigate anywhere in the world by following a constant ______.  However, it is problematic for modern day use because it ______ the size of landmasses farther from the equator.  
+The ______ projection revolutionized navigation because mariners could use it to navigate anywhere in the world by following a constant ______.  However, it is problematic for modern day use because it exaggerates the size of landmasses farther from the equator.  
 
 <!-- Mercator, Bearing, overemphasizes -->

@@ -32,7 +32,7 @@ What does the select layer by attributes tool do?
 A Layout in ArcGIS Pro is a way to put a ______ on a page.
 
 [**QA3**](Application_Part1.md#qa3)
-What tool is used to create this 1500 meter zone around the campsites?
+What tool was used to create this 1500 meter zone around the campsites?
 
 - Buffer
 - Select by location
@@ -42,10 +42,10 @@ What tool is used to create this 1500 meter zone around the campsites?
 [**QA4**](Application_Part1.md#qa4)
 What is the first step when creating a new point layer?
 
-- Create point feature class in the project geodatabase
-- Create a polygon feature class in the project geodatabase
-- Create a raster dataset
-- Make sure you are zoomed into your area of interest.
+- Create a polygon feature class in the project geodatabase.
+- Create a raster dataset.
+- Make sure you are zoomed into your area of interest. 
+- Create point feature class in the project geodatabase.
 
 [**QA5**](Application_Part2.md#qa5)
 How many cholera deaths were recorded in this outbreak? ______ How many locations (points) are in the dataset? ______ What is the highest number of deaths at one location? ______
@@ -58,16 +58,16 @@ How many cholera deaths were recorded in this outbreak? ______ How many location
 Cartography developed in many cultures around the world independently [T/F]
 
 [**QC2**](Content_Part1.md#qc2)
-A ______ is a naturally occurring magnet.  They were first used by both the ______ civilization in Mexico to orient their buildings and towns.
+A ______ is a naturally occurring magnet.  They were first used by the ______ civilization in present day Mexico to orient their buildings and towns.
 
 [**QC3**](Content_Part1.md#qc3)
-The compass as we know it today originated in China during the ______ was first used for navigation during the ______.
+The compass as we know it today originated in China during the _____ Dynasty was first used for navigation during the ______ Dynasty.
 
 [**QC4**](Content_Part2.md#qc4) 
 Geographia is the oldest known example of an  ______ and can be considered the first ______ because it stored geographic information in a systematic way and even had an ______ of place names.
 
 [**QC5**](Content_Part2.md#qc5) 
-The ______ projection revolutionized navigation because mariners could use it to navigate anywhere in the world by following a constant ______.  However, it is problematic for modern day use because it ______ the size of landmasses farther from the equator.  
+The ______ projection revolutionized navigation because mariners could use it to navigate anywhere in the world by following a constant ______.  However, it is problematic for modern day use because it exaggerates the size of landmasses farther from the equator.  
 
 [**QC6**](Content_Part4.md#qc6) 
 The numbered treaties were negotiated in a fair and balanced way and the thanks to the systematic collection and dissemination of geographic information, all parties had access to the same information when conducting negotiations.  
@@ -87,7 +87,7 @@ ______ GIS is free to use and download, and the source code is open to the publi
 
 # Module Assignment (75 pts)
 
-All written answers should be numbered and record in one document, saved as a .pdf, and uploaded to canvas.  The file submissions should also be saved as .pdf and uploaded separately.
+All written answers should be numbered and record in one document, saved as a .pdf, and uploaded to canvas.  The file submissions should also be saved as .pdf and uploaded separately.  **Written answers can be as brief as you want as long as they answer the question.**
 
 ## Application Questions (50 pts)
 
