@@ -69,7 +69,6 @@ What does the select layer by attributes tool do?
 - Find features that are in a specific area.
 - Find features based on their spatial relationship to other features.
 
-<!-- criteria -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p8ZeOffTG-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
@@ -79,7 +78,6 @@ What does the select layer by attributes tool do?
 ### **QA2**
 
 A Layout in ArcGIS Pro is a way to put a ______ on a page.
-<!--Map -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NZ9ei4-23MM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -95,8 +93,6 @@ What tool was used to create this 1500 meter zone around the campsites?
 - Intersect
 - Select by attribute
 
-<!-- Buffer -->
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hdkHhaYHXyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## [Create points on a map](https://pro.arcgis.com/en/pro-app/latest/get-started/create-points-on-a-map.htm)
@@ -111,5 +107,4 @@ What is the first step when creating a new point layer?
 - Create a raster dataset
 - Make sure you are zoomed into your area of interest. 
 - Create point feature class in the project geodatabase
-
 

@@ -61,10 +61,7 @@ Colonial expansion is deeply intertwined with the history of cartography.  Map p
 
 Geographia is the oldest known example of an  ______ and can be considered the first ______ because it stored geographic information in a systematic way and even had an ______ of place names.
 
-<!-- Atlas, GIS, index -->
 
 ### QC5
 
 The ______ projection revolutionized navigation because mariners could use it to navigate anywhere in the world by following a constant ______.  However, it is problematic for modern day use because it exaggerates the size of landmasses farther from the equator.  
-
-<!-- Mercator, Bearing, overemphasizes -->

@@ -131,8 +131,6 @@ The cholera deaths have already been digitized. Follow the steps as outlined and
 How many cholera deaths were recorded in this outbreak? ______ How many locations (points) are in the dataset? ______ What is the highest number of deaths at one location? ______
 
 
-<!-- Make into fill in the blank: Sum 545, Count 305, Max 15 -->
-
 * Right click "COUNT" in the attribute table and choose "Statistics" as shown below.  A chart window and a properties pane will open.  Use the statistics in the properties pane to answer the question.
 
 

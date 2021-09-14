@@ -60,10 +60,7 @@ The first computer based GIS was invented in Canada.
 
 The numbered treaties were negotiated in a fair and balanced way and the thanks to the systematic collection and dissemination of geographic information, all parties had access to the same information when conducting negotiations.  
 
-<!-- Canada Land Inventory, suitability, computer, spatial analysis -->
 
 ### QC7
 
 The ______ aimed to map lands in Canada based on their ______ for agriculture, forestry, recreation and wildlife.  It was the first ______ based geographic database and led to significant advancements in ______.
-
-<!-- Canada Land Inventory, suitability, computer, spatial analysis -->

@@ -42,9 +42,8 @@ GIS has become a powerful tool for GIS in recent years.
 
 ______ GIS software has closed source code and often requires users to buy expensive licenses.  
 
+
 ### Q9
 
 ______ GIS is free to use and download, and the source code is open to the public for inspection, editing, and updating.  
- 
- <!--  Open Source -->
  
