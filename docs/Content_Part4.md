@@ -40,6 +40,8 @@ The British and subsequent Canadian government's grab for power across this land
 The lands that comprise Canada have been inhabited for thousands of years and have histories that stretch back well before the colonial era.  Many colonial mapping efforts were centered on erasing Indigenous Peoples and their Histories.  One way they accomplished this was through the use of place names.  A key example of this is Ch'ich'iyuy, aka "The Lions".  Ch'ich'iyuy is a Skwxwú7mesh word that translates to "The Twins".  The peak is steeped in tradition and history.  Yet the colonial name completely disregards this history.  The name "The Lions" is based of Heraldry, a system of family crests and symbols from Europe.
 
 
+<img src="content/images/the_twins.jpg" width="1000">
+
 ## Learning Place Names.
 
 <a href="http://squamishatlas.com/?fbclid=IwAR3JfkUeATF22zPFi9BCo-S6BrOudMQeFSO3_r3iar6JGj0XYf1qTOQ92zE#" target="_blank">The Skwxwú7mesh Atlas</a> is a great resource for learning about Skwxwú7mesh Place Names.
