@@ -23,7 +23,7 @@ The British and subsequent Canadian government's grab for power across this land
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="content/Expansion.html" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/CanadianExpansion.html" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -33,16 +33,18 @@ The British and subsequent Canadian government's grab for power across this land
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="content/Expansion.html" target="_blank">View slides in new tab</a>
+<a href="content/CanadianExpansion.html" target="_blank">View slides in new tab</a>
 
-# The First Digital GIS
+# Indgenous Placenames
 
-The first computer based GIS was invented in Canada.
+The lands that compries Canada have been inhabited for thousands of years and have histories that stretch back well before the colonial era.
 
+
+<a href="http://squamishatlas.com/?fbclid=IwAR3JfkUeATF22zPFi9BCo-S6BrOudMQeFSO3_r3iar6JGj0XYf1qTOQ92zE#" target="_blank">The Squamish Atlas</a> is a great resource for learing about Squamish Place Names.
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="content/Expansion.html" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="content/images/squamish_atlas.png" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -52,7 +54,21 @@ The first computer based GIS was invented in Canada.
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="content/Expansion.html" target="_blank">View slides in new tab</a>
+
+<a href="https://placenamemap.musqueam.bc.ca/?fbclid=IwAR1dWYuotXFkmwJzidy2ayrlPy4NvvnRBuOnUeyoSqsRiZpt5blWhxeFR0I" target="_blank">The Musqueam</a> have a great resource for as well!
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="content/images/musqueam_atlas.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
 
 ---
 
