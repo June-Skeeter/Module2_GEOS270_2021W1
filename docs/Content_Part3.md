@@ -74,10 +74,8 @@ In the face of mounting evidence many doctors and public officials stubbornly re
 </div>
 <a href="content/images/Snow_Map.jpg" target="_blank">View Image in New Tab</a>
 
-
-
-
----
+--- 
+# Assessment Questions
 
 ### **WC2**
 
