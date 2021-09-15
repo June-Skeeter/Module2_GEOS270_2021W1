@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exploration, Expansion, Collonialism, and Cartography
+title: Exploration, Expansion, Colonialism, and Cartography
 parent: Content
 grand_parent: Module 1
 nav_order: 2
@@ -16,7 +16,7 @@ nav_order: 2
 </details>
 ---
 
-# Exploration, Expansion, Collonialism, and Cartography
+# Exploration, Expansion, Colonialism, and Cartography
 
 As societies expanded, nation-states formed and empires arose.  As those empires expanded their borders, they expanded their maps and conceptualization of the known world.  Colonial expansion and the history of cartography are deeply intertwined.  Map projections were a key advancement that revolutionized maritime navigation.
 

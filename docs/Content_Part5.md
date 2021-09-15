@@ -22,7 +22,7 @@ GIS has become a powerful, widely used tool for GIS in recent decades.
 ---
 
 
-# Proprietary GIS Sorftware 
+# Proprietary GIS Software 
 
 GIS is very much rooted in capitalism and the capitalist enterprise.  Consequently many of the initial developments in GIS were by for profit companies.  For example, [ESRI](https://www.esri.com/en-us/home) is a leading producer of GIS software.  They make ArcGIS Pro, the software package we will be working with most in this class.  
 
@@ -48,7 +48,6 @@ There are alternatives!  Open source software packages have proliferated in rece
 * Operating Systems: Linux OS, Android
 * Programming Languages: Python, R, Java, etc.
 * Software Packages: Libre Office (Writer, Calc, Impress, etc.), Ink Scape, QGIS
-
 
 Open source software is more accessible because its free to download and use.
 
