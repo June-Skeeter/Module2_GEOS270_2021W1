@@ -7,6 +7,10 @@ has_children: true
 nav_order: 2
 ---
 
+# Fundamentals of GIS
+
+Displaying our 3D Earth on a 2D Map
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -15,9 +19,11 @@ nav_order: 2
 1. TOC
 {:toc}
 </details>
+
 ---
 
-# Why do we need Map Projections?
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kIID5FDi2JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

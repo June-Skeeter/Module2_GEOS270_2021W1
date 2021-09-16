@@ -1,6 +1,6 @@
 ---
 layout: default
-title: History of Cartography & Surveying
+title: Fundamentals of GIS
 parent: Content
 grand_parent: Module 1
 nav_order: 1
@@ -14,13 +14,15 @@ nav_order: 1
 1. TOC
 {:toc}
 </details>
+
 ---
 
+# Fundamentals of GIS
+
+Displaying our 3D Earth on a 2D Map
 
 ---
 
 # Assessment Questions
 
-### QC1 
-
-
+### QC1
