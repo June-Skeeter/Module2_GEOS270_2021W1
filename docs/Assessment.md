@@ -8,7 +8,7 @@ nav_order: 4
 # Assessment
 {: .no_toc }
 
-You can use the course Canvas page to complete the quiz, written submission, and files uploads.  I suggest you download the [assessment document](https://github.com/June-Skeeter/Module1_GEOS270/blob/main/docs/Assessment.md), write down your answers there as you progress through the Content and Application sections.  Then upload your answers to canvas once you have finished the module.
+You can use the course Canvas page to complete the quiz, written submission, and files uploads.  I suggest you download the [assessment document](https://github.com/June-Skeeter/Module2_GEOS270/blob/main/docs/Assessment.md), write down your answers there as you progress through the Content and Application sections.  Then upload your answers to canvas once you have finished the module.
 
 1. TOC
 {:toc}

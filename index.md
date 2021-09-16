@@ -6,10 +6,10 @@ title: Module 1
 nav_order: 1
 ---
 
+<!-- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nhcZ1av7cr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nhcZ1av7cr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-# Module 1
+# Module 2
 {: .no_toc }
 
 <details open markdown="block">
@@ -22,26 +22,25 @@ nav_order: 1
 </details>
 ---
 
-# Module 1 Details
+# Module 2 Details
 
 ## Lecture (Content)
 
-### Monday September 13th
+### Monday September 20th
 
-This Lecture is asynchronous and online.  Review the intro video, this page, the main content page, and watch the video on redlining..
+This Lecture is asynchronous and online.  
 
-### Wednesday September 15th
+### Wednesday September 22nd
 
-This Lecture is **in-person**.  It will be streamed on zoom for those who cannot attend.  A zoom link will be available [here](FutureLink) before lecture starts Wednesday.  This lecture will cover all the sub-pages on the content.
+This Lecture is **in-person**.  It will be streamed on zoom for those who cannot attend.  The zoom link can be found on the main canvas page.
 
 ## Lab (Application)
 
 In your lab section, you will work through the Application portion of the Module.
 
-
 # Learning Outcomes
 
-## Historical Overview: Origins of GIS
+## Coordinate Reference Systesm
 * First maps & surveys
 * Exploration and expansion - maps and colonialism
 * Development of atlases (first spatial databases)
