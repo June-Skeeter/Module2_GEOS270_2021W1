@@ -41,14 +41,7 @@ In your lab section, you will work through the Application portion of the Module
 # Learning Outcomes
 
 ## Coordinate Reference Systesm
-* First maps & surveys
-* Exploration and expansion - maps and colonialism
-* Development of atlases (first spatial databases)
-* Development of map projections and spatial analysis methods
-* Historical wrongs
 
-## Broad overview of ArcGIS Software
-* Develop familiarity with ArcGIS Pro
 
 # Deliverables
 
