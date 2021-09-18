@@ -6,16 +6,11 @@ has_children: True
 nav_order: 3
 ---
 
-# Managing Map with ArcGIS Pro:
+# Managing Map Projections with ArcGIS Pro:
 
 ### Learning Objectives:
 
-# Workshop Exercises
-
-# Lab Excercises
-
-- Download stats canada shapefile
-- Calcualte area of each province
-- Change projection to web mercator get area
-- Change projection to GCS and get "area"
-- Change projection to Equal Area and get area
+* Determine a layer's CRS
+* Learn about the Maps CRS and "project on the fly"
+* Change a layer's projection
+* Investigate the impacts of CRS on analysis

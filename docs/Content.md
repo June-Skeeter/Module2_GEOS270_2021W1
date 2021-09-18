@@ -7,9 +7,6 @@ has_children: true
 nav_order: 2
 ---
 
-# Fundamentals of GIS
-
-Displaying our 3D Earth on a 2D Map
 
 <details open markdown="block">
   <summary>
@@ -22,12 +19,6 @@ Displaying our 3D Earth on a 2D Map
 
 ---
 
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kIID5FDi2JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
 
 ## What **don't** you need to know about projections?
 

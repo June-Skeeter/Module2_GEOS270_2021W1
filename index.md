@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Module 1
+title: Module 2
 # parent: Modules
 # has_children: True
 nav_order: 1
@@ -22,27 +22,18 @@ nav_order: 1
 </details>
 ---
 
-# Module 2 Details
+# Coordinate Referecne Systesm!
 
-## Lecture (Content)
-
-### Monday September 20th
-
-This Lecture is asynchronous and online.  
-
-### Wednesday September 22nd
-
-This Lecture is **in-person**.  It will be streamed on zoom for those who cannot attend.  The zoom link can be found on the main canvas page.
-
-## Lab (Application)
-
-In your lab section, you will work through the Application portion of the Module.
+Map projections are probably the most complicated, boring, and important conceept you will encoutner while studying GIS.  They put the G in GIS.  We are how we take the near infinite complexity of our 3D physial world and represent it as a simplified 2D model (map).
 
 # Learning Outcomes
 
-## Coordinate Reference Systesm
-
+* Steps of Abstraction
+* Datums
+* Geographic Coordinate Systems
+* Coordinate Reference Systems
+* Scale
 
 # Deliverables
 
-Every module will be scored out of 100 pts.  For this module will be be submitting two maps and a few written responses.  You will also be taking a quiz consisting of multiple choice, numeric input, fill in the blank, etc. type questions.  See the [assessment pages](docs/Assessment.md).
+Every module will be scored out of 100 pts.  For this module will be be submitting one map and a some written responses.  You will also be taking a quiz consisting of multiple choice, numeric input, fill in the blank, etc. type questions.  See the [assessment pages](docs/Assessment.md).

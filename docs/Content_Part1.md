@@ -1,28 +1,31 @@
 ---
 layout: default
-title: Fundamentals of GIS
+title: Monday
 parent: Content
-grand_parent: Module 1
 nav_order: 1
 ---
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
+# Why all world maps are wrong
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kIID5FDi2JQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-# Fundamentals of GIS
+# Surprise! The Earth Isn't Round
 
-Displaying our 3D Earth on a 2D Map
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4LHNYWdx0zc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
 # Assessment Questions
 
 ### QC1
+
+The ____ projection was initially created for ______ navigation.
+
+### QC2
+
+The earth is a(n):
+
+- Oblate spheroid
+- Lumpy ball
