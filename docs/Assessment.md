@@ -145,13 +145,13 @@ Your choice of map projection is entirely independent from the scale you wish to
 
 ---
 
-# Module Assignment (65 pts)
+# Module Assignment (60 pts)
 
 All written answers should be numbered and record in one document, saved as a .pdf, and uploaded to canvas.  The file submissions should also be saved as .pdf and uploaded as a separate document.  **Written answers can be as brief as you want as long as they answer the question.**
 
-## Application Questions (45 pts)
+## Application Questions (40 pts)
 
-### Written Answers (25 pts)
+### Written Answers (20 pts)
 
 [**WA1**](Application_Part1.md#wa1)
 What does Project "On the Fly" do?
