@@ -141,7 +141,7 @@ Map scale is the ______ of a distance on a map compared to distance on the groun
 
 
 [**QC14**](Content_Part2_5.md#qc14) 
-Your choice of map projecton is entirely independent from the scale you wish to display your map at [T/F]
+Your choice of map projection is entirely independent from the scale you wish to display your map at [T/F]
 
 ---
 
