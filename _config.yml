@@ -1,15 +1,14 @@
 title: GEOS270 2021W1
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
-github_repo_url: "https://june-skeeter.github.io/Module1_GEOS270/"
-# site_url: 'https://june-skeeter.github.io/Module1_GEOS270/'
+github_repo_url: "https://june-skeeter.github.io/Module2_GEOS270/"
 
 # Enable or disable heading anchors
 heading_anchors: true
 
 aux_links:
   "View on github":
-    - "//github.com/June-Skeeter/Module1_GEOS270/"
+    - "//github.com/June-Skeeter/Module2_GEOS270/"
 
 # license information for workshop content
 license_name: "Creative Commons Attribution 4.0 International License"

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Geoid
+title: Steps of Abstraction
 parent: Wednesday
 # has_children: true
 grand_parent: Content

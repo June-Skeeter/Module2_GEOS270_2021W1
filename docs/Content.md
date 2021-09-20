@@ -20,17 +20,14 @@ nav_order: 2
 ---
 
 
-## What **don't** you need to know about projections?
+# What **don't** you need to know about projections?
 
-Map projections are complex mathematical transformations.  You don't need to understand the intricacies of how they work.  You also don't need to know what projection is the correct on for every situation.  You can ask someone or google it.  
+Map projections are complex mathematical transformations.  You don't need to understand the intricacies of how they work.  You also don't need to know what specific projection is the correct on for every situation.  You can ask someone or google it.  
 
 # What **do** you need to know about projections?
 
-Which type of projections you
+Which types of projections are better sutied for certains circumastances
 
----
-
----
 
 
 
