@@ -21,14 +21,14 @@ All quiz answers are multiple choice, numeric input, fill in the blank, etc. typ
 
 ## Application Questions (25.5 pts)
 
-[**QA1**](Application_Part1.html#qa1)
+[**QA1**](Application_Part1.md#qa1)
 Metadata is ______ about ______.
 
 
-[**QA2**](Application_Part1.html#qa2)
+[**QA2**](Application_Part1.md#qa2)
 UTM stands for Universal Transverse _______.
 
-[**QA3**](Application_Part1.html#qa3)
+[**QA3**](Application_Part1.md#qa3)
 Vancouver is in this UTM zone:
 
 - 10S
@@ -38,11 +38,11 @@ Vancouver is in this UTM zone:
 - 12S
 - 12W
 
-[**QA4**](Application_Part2_1.html#qa4)
+[**QA4**](Application_Part2_1.md#qa4)
 What value is listed for Top? - Rounded to he nearest whole number is fine.
 
 
-[**QA5**](Application_Part2_1.html#qa5)
+[**QA5**](Application_Part2_1.md#qa5)
 What unit is this number in? (*hint* check the Spatial Reference Info).
 - Meters
 - Kilometers
@@ -50,34 +50,34 @@ What unit is this number in? (*hint* check the Spatial Reference Info).
 - Degrees
 
 
-[**QA6**](Application_Part2_1.html#qa6)
+[**QA6**](Application_Part2_1.md#qa6)
 What value is listed for Shape_Area? - Rounded to he nearest whole number is fine.
 
 
-[**QA7**](Application_Part2_1.html#qa7)
+[**QA7**](Application_Part2_1.md#qa7)
 What is the population density for CAN_Albers_EA? - Round to nearest tenth.
 
-[**QA8**](Application_Part2_1.html#qa8)
+[**QA8**](Application_Part2_1.md#qa8)
 What is the population density for CAN_Web_Mercator? - Round to nearest tenth.
 
 
-[**QA9**](Application_Part2_1.html#qa9)
+[**QA9**](Application_Part2_1.md#qa9)
 Which layer do you think has the most accurate Population Density?
 - CAN_WGS1984
 - CAN_Web_Mercator
 - CAN_Albers_EA
 
-[**QA10**](Application_Part2_1.html#qa10)
+[**QA10**](Application_Part2_1.md#qa10)
 We are multiplying by 1000000 to convert the units to population per square ______.
 
 ---
 
 ## Content Questions (14.5 pts)
 
-[**QC1**](Content_Part1.html#qc1) 
+[**QC1**](Content_Part1.md#qc1) 
 The ______ projection was initially created for maritime ______.
 
-[**QC2**](Content_Part1.html#qc2)
+[**QC2**](Content_Part1.md#qc2)
 The earth is:
 
 - An oblate spheroid
@@ -87,23 +87,23 @@ The earth is:
 - Flat
 - Chonky
 
-[**QC3**](Content_Part2_1.html#qc3)
+[**QC3**](Content_Part2_1.md#qc3)
 The first step in creating an abstraction of the earth is to simplify it to a geoid.  The is an abstract representation of the earth that smooths out ______ but preserves ______ differences due to ______ differentials.
 
-[**QC4**](Content_Part2_2.html#qc4) 
+[**QC4**](Content_Part2_2.md#qc4) 
 If you are mapping a city like Vancouver, ______ a datum is best.  When mapping the whole world, you'll want to use a ______ datum.  WGS 1984 is an example of a ______ datum, NAD 1983 is an example of a ______ datum.
 
-[**QC5**](Content_Part2_3.html#qc5) 
+[**QC5**](Content_Part2_3.md#qc5) 
 [Latitude/Longitude] is a measure of angular distance North/South of the equator and [Latitude/Longitude] is a measure of angular distance from the prime meridian.  
 
-[**QC6**](Content_Part2_3.html#qc6) 
+[**QC6**](Content_Part2_3.md#qc6) 
 Together they form a ______, describing locations on the surface of a simplified model of the earth known as a ______ which represents the earth as an oblate spheroid.
 
 
-[**QC7**](Content_Part2_4.html#qc7) 
+[**QC7**](Content_Part2_4.md#qc7) 
 The Mercator projection should never be used to calculate [Area/Distance/Bearing]. (select all that apply)
 
-[**QC8**](Content_Part2_4.html#qc8) 
+[**QC8**](Content_Part2_4.md#qc8) 
 To calculate population density, you would want to use:
 
 - an equal area projection
@@ -111,7 +111,7 @@ To calculate population density, you would want to use:
 - an azimuthal projection
 - a geographic coordinate system
 
-[**QC9**](Content_Part5.html#qc9) 
+[**QC9**](Content_Part5.md#qc9) 
 This type projection is great for displaying a small area like the city of Vancouver is, but it could not be used to display all of Canada on one map.
 
 - Equidistant
@@ -129,22 +129,22 @@ All written answers should be numbered and record in one document, saved as a .p
 
 ### Written Answers (25 pts)
 
-[**WA1**](Application_Part1.html#wa1)
+[**WA1**](Application_Part1.md#wa1)
 What does Project "On the Fly" do?
 
-[**WA2**](Application_Part2_2.html#wa2)
+[**WA2**](Application_Part2_2.md#wa2)
 The Mercator projection is a cylindrical projection.  The Albers projection is a conic projection.  How can you tell by looking at the graticule?
 
 ### File Submissions (20 pts)
 
-[**FA1**](Application_Part2_2.html#fa1)
+[**FA1**](Application_Part2_2.md#fa1)
 Export your layout. Name it “Projections_Compared.pdf”. Upload it to canvas.
 
 ---
 
 ## Content Questions (20 pts)
 
-[**WC1**](Content_Part2_4.html#wc1)
+[**WC1**](Content_Part2_4.md#wc1)
 Briefly describe the steps of the abstraction process.
 
 ---
