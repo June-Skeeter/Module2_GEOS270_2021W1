@@ -7,27 +7,19 @@ has_children: true
 nav_order: 2
 ---
 
+# What **do** you need to know about projections?
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
+**1)** Which types of projections are better sutied for certain circumastances.
 
----
+**2)** The choice of projecton can have a significant impact on your analysis.
 
+**3)** The choice of projecton can have a significant impact on how your maps are percieved.
+
+**4)** What map scale means and how it relates to prjection choice.
 
 # What **don't** you need to know about projections?
 
-Map projections are complex mathematical transformations.  You don't need to understand the intricacies of how they work.  You also don't need to know what specific projection is the correct on for every situation.  You can ask someone or google it.  
+* Map projections are complex mathematical transformations.  You don't need to understand the intricacies of how they work.
 
-# What **do** you need to know about projections?
-
-Which types of projections are better sutied for certains circumastances
-
-
-
+* You also don't need to know what specific projection is the correct on for every situation.  You can ask someone or google it.  
 

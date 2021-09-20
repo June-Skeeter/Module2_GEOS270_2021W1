@@ -14,3 +14,5 @@ nav_order: 3
 * Learn about the Map CRS and "project on the fly"
 * Change a layer's projection
 * Investigate the impacts of CRS on analysis
+* Set the scale of your map
+* Display maps side by side

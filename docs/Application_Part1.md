@@ -11,15 +11,17 @@ nav_order: 1
 
 # Projection Tutorial
 
-This map [projection tutorial](https://ubc-library-rc.github.io/map-projections/content/exercises.html) was created by Maya Daurio at the UBC research Commons.  The tutorial has three exercises:
+<img src="content/images/understanding-spatial-data-map-projections.jpg" width="400">
 
-## **1)** What coordinate system is my data in?
+This map [projection tutorial](https://ubc-library-rc.github.io/map-projections/content/exercises.html) was created by Maya Daurio at the UBC research Commons.  The tutorial has three exercises.  Work through each exercise to get a quick overview of how to work with coordiante systems in ArcGIS Pro.
+
+**1)** What coordinate system is my data in?
 - Learn how to determine the coordinate system of a layer
 
-## **2)** Projecting On-the-Fly
+**2)** Projecting On-the-Fly
 - Learn how ArcGIS Pro handles layers with different coordinate systems
 
-## **3)** Project your Data
+**3)** Project your Data
 - Change the coordinate system of your layer
 
 ---
