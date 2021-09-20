@@ -16,3 +16,4 @@ nav_order: 3
 * Investigate the impacts of CRS on analysis
 * Set the scale of your map
 * Display maps side by side
+

@@ -6,8 +6,7 @@ title: Module 2
 nav_order: 1
 ---
 
-<!-- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nhcZ1av7cr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIlmyuO1zEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Module 2
 {: .no_toc }
@@ -25,6 +24,8 @@ nav_order: 1
 # Coordinate Reference Systems!
 
 Map projections are probably the most complicated, boring, and important concept you will encounter while studying GIS.  They put the **G** in **GIS**.  They are how we take the near infinite complexity of our 3D physical world and represent it as a simplified 2D model (map).
+
+
 
 # Learning Outcomes
 
