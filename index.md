@@ -22,18 +22,18 @@ nav_order: 1
 </details>
 ---
 
-# Coordinate Referecne Systesm!
+# Coordinate Reference Systems!
 
-Map projections are probably the most complicated, boring, and important conceept you will encoutner while studying GIS.  They put the G in GIS.  We are how we take the near infinite complexity of our 3D physial world and represent it as a simplified 2D model (map).
+Map projections are probably the most complicated, boring, and important concept you will encounter while studying GIS.  They put the **G** in **GIS**.  They are how we take the near infinite complexity of our 3D physical world and represent it as a simplified 2D model (map).
 
 # Learning Outcomes
 
-* Steps of Abstraction
-* Datums
+* Steps of Abstraction: 3D Earth >>> 2D Map
+* Local vs. Datums
 * Geographic Coordinate Systems
 * Coordinate Reference Systems
 * Scale
 
 # Deliverables
 
-Every module will be scored out of 100 pts.  For this module will be be submitting one map and a some written responses.  You will also be taking a quiz consisting of multiple choice, numeric input, fill in the blank, etc. type questions.  See the [assessment pages](docs/Assessment.md).
+Every module will be scored out of 100 pts.  For this module will be be submitting one map and a some written responses.  You will also be taking a quiz consisting of multiple choice, numeric input, fill in the blank, etc. type questions.  See the [assessment page](docs/Assessment.md).

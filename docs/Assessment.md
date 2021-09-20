@@ -15,11 +15,11 @@ You can use the course Canvas page to complete the quiz, written submission, and
 
 ---
 
-# Module Quiz (35 pts)
+# Module Quiz (40 pts)
 
 All quiz answers are multiple choice, numeric input, fill in the blank, etc. type questions.  They can be submitted via the Module 1 Quiz that can be found on the Canvas page.  You will have unlimited attempts to take the quiz.
 
-## Application Questions (25.5 pts)
+## Application Questions (20 pts)
 
 [**QA1**](Application_Part1.md#qa1)
 Metadata is ______ about ______.
@@ -72,7 +72,7 @@ We are multiplying by 1000000 to convert the units to population per square ____
 
 ---
 
-## Content Questions (14.5 pts)
+## Content Questions (20 pts)
 
 [**QC1**](Content_Part1.md#qc1) 
 The ______ projection was initially created for maritime ______.
@@ -111,13 +111,33 @@ To calculate population density, you would want to use:
 - an azimuthal projection
 - a geographic coordinate system
 
-[**QC9**](Content_Part5.md#qc9) 
+[**QC9**](Content_Part2_4.md#qc9) 
 This type projection is great for displaying a small area like the city of Vancouver is, but it could not be used to display all of Canada on one map.
 
 - Equidistant
 - Conformal Conic
 - Universal Transverse Mercator
 - Equal Area
+
+[**QC10**](Content_Part2_5.md#qc0) 
+A [large/small] scale map displays a [large/small] area and a [large/small] scale map displays a [large/small] area.
+
+
+[**QC11**](Content_Part2_5.md#qc11) 
+Which map would show a larger area?
+
+- 1:1,000
+- 1:1,000,000
+
+
+[**QC12**](Content_Part2_5.md#qc12) 
+Which map would show a larger area?
+
+- 1:1,000
+- 1:1,000,000
+
+[**QC13**](Content_Part2_5.md#qc13) 
+Map scale is the ______ of a distance on a map compared to distance on the ground.
 
 ---
 
