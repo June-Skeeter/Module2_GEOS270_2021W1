@@ -10,61 +10,63 @@ nav_order: 2
 1. TOC
 {:toc}
 
-# Create Geodatabase
+# Visual Comparison
 
-Create new .gdb
+Our end goal is to make a map comparing the Mercator Projection to the Albers Equal Area Projection.  We are not going to display WGS1984, because it is *not a projection!*  WGS 1984 is a Geographic Coordinate System, it represents positions on the *datum*.  Unless you want to use a globe, your maps should *always* be projected.
 
-## Import Data
+**1**{: .label .label-red } Click the Insert tab on the top ribbon and create two new maps.
 
-Find the Canada WGS 1984 shapefile.  Import once to base .gdb
-* Add field:
-    * Population, Integer
-* Edit field, (xxxxx) current pop estimate
+<img src="content/images/new_map.png" width="350">
 
-**Definition** Integer, whole round number.
+**2**{: .label .label-red } To rename a Map, double click it in the table of contents.  Name one of your Maps "Albers" and ad the CAN_Albers_EA layers.  Name the other Mercator and add the CAN_Web_Mercator.
 
-## Feature Classes
+<img src="content/images/rename_add.png" width="350">
 
-Create 2 feature classes.
-Specify the CRS: Web Mercator WGS 1984, Albers Equal Area WGS 1984
-* Feature classes will require all .shp contained to take that projection
-* Importing a shapefile will automatically reproject it.
+**3**{: .label .label-red } Under the Insert tab, click New Layout.  Choose Landscape: Legal 8.5" x 14" - Landscape view (horizontal) is useful for side by side comparisons.  Choosing "Legal" gives us a bit more space to work with that "Letter"
 
-Add the Canada_WGS_1984 to both feature classes.
+<img src="content/images/rename_add.png" width="350">
 
-# Calculate Population Density
+**4**{: .label .label-red } Under the Insert tab, click New Map Frame.  Select the Mercator Map, click and drag to drape the Mercator map over the left side of the Layout.
 
-Look at the area value for WGS 1984 - Does this value make any sense??  No!  Area in degrees isn't helpful
+<img src="content/images/insert_frame.png" width="350">
 
-* Add field:
-    * Population Density, Float
+**5**{: .label .label-red } Under the Insert tab, click New Map Frame.  Select the Albers Map, click and drag to drape the Albers map over the Right side of the Layout. *Note*
 
-**Definition** Float, floating point number (allows decimals).
+<img src="content/images/insert_frame2.png" width="350">
 
-### **QC**
+# Add a Graticule and Change the Scale
 
-What projection is the layer currently in?
+**1**{: .label .label-red } Change the scale and add a graticule (lines of latitude and longitude) following the video below.
 
-# Calculate Population Density
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6L0ItZAD1zE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### **QC**
 
-Which province/territory has the greatest area?
+# Add Map Elements
 
-# Change the projection to Lambert Conformal Conic
+**1**{: .label .label-red } For these maps, we'll insert scale text instead of a scale bar.  Under Insert, click "Dynamic Text" and select Scale.   Add the scale text to the bottom left of each map.
 
-### **QC**
+<img src="content/images/scale_text.png" width="450">
 
-Look at the province/territory you identified above.  Did the area change?  If so, by how much?
+<img src="content/images/scale_text2.png" width="450">
 
-# Change the projection again
+**2**{: .label .label-red } We don't need a North Arrow on these maps because we have a graticule, which does a better job of showing north in many cases anyway.  With a conic projection like the Albers Equal Area, north relative depending on where on the map you are looking, so its not very helpful anyway.  North arrows are most useful when mapping small/unfamiliar areas.
 
-This time choose xxx Equal Area.
+**3**{: .label .label-red } We don't need legends either since we're only showing one layer on each map.
 
-### **QC**
+**4**{: .label .label-red } Both maps should have a title.  Label them as follows: "Canada in the Web Mercator Projection" and "Canada in the Albers Equal Area Projection", with the titles centered above the corresponding maps.
 
-Look at the province/territory you identify above.  Did the area change?  If so, by how much?
+**5**{: .label .label-red } The layout also needs a source statement.  Along the bottom add a text box with a source statement.  It should include: your name, date the map was made, affiliation (GEOS 270), and Data Source (Maya Daurio - UBC Research Commons).
 
 # Save your project.
 
 Click Save in the top left of the Arc Pro window.
+
+# Export Your Layout
+
+### FA1
+
+Export your layout.  Name it "Projections_Compared.pdf".  Upload it to canvas.
+
+### WA2
+
+The Mercator projection is a cylindrical projection.  The Albers projection is a conic projection.  How can you tell by looking at the graticule?

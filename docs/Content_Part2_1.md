@@ -26,4 +26,6 @@ nav_order: 1
 
 # Assessment Questions
 
-### QC1
+### QC3
+
+The first step in creating an abstraction of the earth is to simplify it to a geoid.  The is an abstract representation of the earth that smooths out ______ but preserves ______ differences due to ______ differentials.

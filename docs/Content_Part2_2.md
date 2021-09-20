@@ -26,4 +26,6 @@ nav_order: 1
 
 # Assessment Questions
 
-### QC1
+### QC4
+
+If you are mapping a city like Vancouver, ______ a datum is best.  When mapping the whole world, you'll want to use a ______ datum.  WGS 1984 is an example of a ______ datum, NAD 1983 is an example of a ______ datum.

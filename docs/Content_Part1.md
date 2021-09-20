@@ -21,11 +21,17 @@ nav_order: 1
 
 ### QC1
 
-The ____ projection was initially created for ______ navigation.
+The ______ projection was initially created for maritime ______.
+
+<!-- Mercator,maritime -->
 
 ### QC2
 
 The earth is a(n):
 
 - Oblate spheroid
-- Lumpy ball
+- Lumpy ball of rock careening through space
+- Geoid
+- A Sphere
+- Flat
+- Chonky

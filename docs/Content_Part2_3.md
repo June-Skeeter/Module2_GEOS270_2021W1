@@ -26,4 +26,12 @@ nav_order: 3
 
 # Assessment Questions
 
-### QC1
+
+### QC5
+
+[Latitude/Longitude] is a measure of angular distance North/South of the equator and [Latitude/Longitude] is a measure of angular distance from the prime meridian.  
+
+
+### QC6
+
+ Together they form a ______, describing locations on the surface of a simplified model of the earth known as a ______ which represents the earth as an oblate spheroid.
