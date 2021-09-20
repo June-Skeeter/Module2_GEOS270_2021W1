@@ -4,7 +4,7 @@ title: Map Scale
 parent: Wednesday
 # has_children: true
 grand_parent: Content
-nav_order: 5
+nav_order: 6
 ---
 
 <details open markdown="block">
@@ -50,3 +50,7 @@ Which map is a large scale map?
 
 Map scale is the ______ of a distance on a map compared to distance on the ground.
 
+
+### QC14
+
+Your choice of map projection is entirely independent from the scale you wish to display your map at [T/F]

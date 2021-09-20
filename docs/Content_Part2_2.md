@@ -4,7 +4,7 @@ title: Datums
 parent: Wednesday
 has_children: true
 grand_parent: Content
-nav_order: 1
+nav_order: 3
 ---
 
 <details open markdown="block">

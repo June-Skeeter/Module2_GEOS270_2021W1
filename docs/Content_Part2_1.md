@@ -4,7 +4,7 @@ title: Geoid
 parent: Wednesday
 # has_children: true
 grand_parent: Content
-nav_order: 1
+nav_order: 2
 ---
 
 <details open markdown="block">

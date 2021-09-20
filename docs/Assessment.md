@@ -139,6 +139,10 @@ Which map would show a larger area?
 [**QC13**](Content_Part2_5.md#qc13) 
 Map scale is the ______ of a distance on a map compared to distance on the ground.
 
+
+[**QC14**](Content_Part2_5.md#qc14) 
+Your choice of map projecton is entirely independent from the scale you wish to display your map at [T/F]
+
 ---
 
 # Module Assignment (65 pts)
