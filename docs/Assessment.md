@@ -99,7 +99,6 @@ If you are mapping a city like Vancouver, ______ a datum is best.  When mapping 
 [**QC6**](Content_Part2_3.md#qc6) 
 Together they form a ______, describing locations on the surface of a simplified model of the earth known as a ______ which represents the earth as an oblate spheroid.
 
-
 [**QC7**](Content_Part2_4.md#qc7) 
 The Mercator projection should never be used to calculate [Area/Distance/Bearing]. (select all that apply)
 
@@ -129,7 +128,6 @@ Which map would show a larger area?
 - 1:1,000
 - 1:1,000,000
 
-
 [**QC12**](Content_Part2_5.md#qc12) 
 Which map is a large scale map?
 
@@ -138,7 +136,6 @@ Which map is a large scale map?
 
 [**QC13**](Content_Part2_5.md#qc13) 
 Map scale is the ______ of a distance on a map compared to distance on the ground.
-
 
 [**QC14**](Content_Part2_5.md#qc14) 
 Your choice of map projection is entirely independent from the scale you wish to display your map at [T/F]
@@ -155,7 +152,6 @@ All written answers should be numbered and record in one document, saved as a .p
 
 [**WA1**](Application_Part1.md#wa1)
 What does Project "On the Fly" do?
-
 
 [**WA2_1**](Application_Part2_2.md#wa_1)
 Does this number make sense for the population density of Canada? Why or Why not? 
