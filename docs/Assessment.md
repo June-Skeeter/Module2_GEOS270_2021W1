@@ -131,7 +131,7 @@ Which map would show a larger area?
 
 
 [**QC12**](Content_Part2_5.md#qc12) 
-Which map would show a larger area?
+Which map is a large scale map?
 
 - 1:1,000
 - 1:1,000,000
@@ -156,7 +156,11 @@ All written answers should be numbered and record in one document, saved as a .p
 [**WA1**](Application_Part1.md#wa1)
 What does Project "On the Fly" do?
 
-[**WA2**](Application_Part2_2.md#wa2)
+
+[**WA2_1**](Application_Part2_2.md#wa_1)
+Does this number make sense for the population density of Canada? Why or Why not? 
+
+[**WA2_2**](Application_Part2_2.md#wa_2)
 The Mercator projection is a cylindrical projection.  The Albers projection is a conic projection.  How can you tell by looking at the graticule?
 
 ### File Submissions (20 pts)

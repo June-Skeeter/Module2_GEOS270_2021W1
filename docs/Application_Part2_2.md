@@ -74,6 +74,6 @@ Click Save in the top left of the Arc Pro window.
 
 Export your layout.  Name it "Projections_Compared.pdf".  Upload it to canvas.
 
-### WA2
+### WA2_2
 
 The Mercator projection is a cylindrical projection.  The Albers projection is a conic projection.  How can you tell by looking at the graticule?

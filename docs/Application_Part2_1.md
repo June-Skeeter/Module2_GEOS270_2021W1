@@ -83,7 +83,7 @@ Now we can calculate the population density.
 
 **11**{: .label .label-red } Looking in the attribute table, you will see the population density has been calculated.
 
-### WA2
+### WA2_1
 Does this number make sense for the population density of Canada?  Why or Why not?
 <!-- No -->
 
