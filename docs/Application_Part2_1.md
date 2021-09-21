@@ -14,7 +14,7 @@ nav_order: 1
 
 
 **1**{: .label .label-red } Create a new project called "Pop Density", following the same steps as in [Module 1](https://june-skeeter.github.io/Module1_GEOS270/docs/Application.html).  *Note* (If you are working on a Geography lab computer, remember to **work in C:/Temp** but save to your **H:/** drive.  If you are unsure what that means, ask your TA for assistance or see the [lab access page on the syllabus](https://june-skeeter.github.io/GEOS270W1/docs/Labs.html#saving-your-work)
-* We introduced the concept of geodatabases last week.  To review, **a geodatabase (.gdb) is**: a file management structure that is designed specifically for ESRI products.  You don't have to store your data in a .gdb, Arc Pro can work with data stored in standard formats as well.  **But** .gdb have some enhanced functionality that can be useful, so a .gdb is created by default with every new project.  If you expand the 
+* We introduced the concept of geodatabases last week.  To review, **a geodatabase (.gdb) is**: a file management structure that is designed specifically for ESRI products.  You don't have to store your data in a .gdb, Arc Pro can work with data stored in standard formats as well.  **But** .gdb have some enhanced functionality that can be useful, so a .gdb is created by default with every new project.  If you expand the Pop_Density folder, you will see ArcPro has created a Pop_Density.gdb for you already.
 
 <img src="content/images/catalog.png" height="1000">
 
