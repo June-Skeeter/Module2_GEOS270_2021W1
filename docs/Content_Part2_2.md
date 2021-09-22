@@ -77,7 +77,7 @@ This type projection is great for displaying a small area like the city of Vanco
 
 ### QC10
 
-A [large/small] scale map displays a would display beand a [large/small] scale map displays a [large/small] area.
+A map displaying UBC campus would be a [large/small] scale, a map displaying the whole world would be a [large/small] scale.
 
 ### QC11
 
