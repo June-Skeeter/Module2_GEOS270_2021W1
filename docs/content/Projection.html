@@ -222,15 +222,172 @@
 
        <section>
         <h3>Tearing</h3>
-          <img src="images/Mollewide.png" width="1000">
+          <img src="images/Mollewide.png" width="800">
           <p>All projections have tearing (edges).</p>
       </section>
 
 
        <section>
-        <h3>Tearing</h3>
-          <img src="images/Mollewide.png" width="1000">
+        <h3>Shearing</h3>
+          <img src="images/Sinusoidal.jpg" width="800">
+          <p>Shapes/angles contorted without changes to area.</p>
       </section>
+
+      <section>
+        <h3>Compression</h3>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>Changes to area.</p>
+           </div>
+          <div class="col" style="text-align: center;">
+          <img src="images/compression.jpg" width="500">
+           </div>
+         </div>
+      </section>
+
+
+
+       <section>
+        <h3>Compromise</h3>
+          <img src="images/Winkel.jpg" width="700">
+          <p>Strikes a balance between for aesthetics.</p>
+      </section>
+
+
+       <section>
+        <h2>What projection is right for my map?</h2>
+          <p>There isn't a "correct" answer here, but there are definitely wrong answers.  You can typically get similar results with a handful of different projections for different applications.</p>
+      </section>
+
+      <section>
+        <h3>Things to Think About</h3>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>Where do the data come from?</p>
+          <p>-Some organizations or data warehouses use a standard projection, e.g. Stats Canada w/ Lambert Conformal Conic</p>
+           </div>
+          <div class="col" style="text-align: Left;">
+          <p>What is the maps purpose?</p>
+          <p>-Conformal/compromise are aesthetically pleasing.</p>
+          <p>-Navigational maps, use Mercator, equidistant.</p>
+          <p>-Thematic maps (densities or distributions), use be equal area.</p>
+           </div>
+         </div>
+      </section>
+
+
+      <section>
+        <h2>Scale</h2>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>The relationship between distance on a map and distance in the real world.</p>
+          <p>How much smaller than reality is the map?</p>
+           </div>
+          <div class="col" style="text-align: center;">
+          <p><img src="images/scale_1.png" width="400"></p>
+           </div>
+         </div>
+      </section>
+
+
+
+       <section>
+        <!-- <h3>Types of Datums</h3> -->
+        <div class="container">
+          <div class="col" style="text-align: Center;">
+          <p><h3> Small Scale</h3> Zoomed out, large area, more generalization, less detail.</p>
+          <p><img src="images/small_scale.png" width="400"></p>
+           </div>
+          <div class="col" style="text-align: Center;">
+          <p><h3> Large Scale</h3> Zoomed in, small area, more detail, less generalization.</p>
+          <p><img src="images/large_scale.png" width="400"></p>
+           </div>
+      </section>
+
+
+       <section>
+        <!-- <h3>Types of Datums</h3> -->
+        <div class="container">
+          <div class="col" style="text-align: Center;">
+          <p><h3> Small Scale 1:10,000,000</h3></p>
+          <p>1/10,000,000 = 0.0000001</p>
+          <p><img src="images/small_scale.png" width="400"></p>
+           </div>
+          <div class="col" style="text-align: Center;">
+          <p><h3> Large Scale 1:1,000</h3></p>
+          <p>1/1,000 = 0.001</p>
+          <p><img src="images/large_scale.png" width="400"></p>
+           </div>
+      </section>
+
+
+      <section>
+        <h2>Scale</h2>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>All maps require simplification of real world features, amount depends on map scale:</p> 
+          <p>-Smaller scale maps require more generalization.</p>
+          <p>-Larger scale maps can include more detail.</p>
+           </div>
+          <div class="col" style="text-align: center;">
+          <p><img src="images/scale_general.png" width="400"></p>
+           </div>
+         </div>
+      </section>
+
+
+      <section>
+        <h2>Scale & Projection</h2>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>Map scale will impact our choice of projection.</p>
+          <p>Projections that work at 1:000 aren't necessarily suited for a 1:10,000,000 map.</p>
+           </div>
+          <div class="col" style="text-align: center;">
+          <div style="overflow: hidden;
+            padding-top: 56.25%;
+            position: relative">
+            <iframe src="web_mercator_Iqualuit.html" title="Processes" scrolling="no" frameborder="0"
+              style="border: 0;
+             height: 100%;
+             left: 0;
+             position: absolute;
+             top: 0;
+             width: 100%;">
+             <p>Your browser does not support iframes.</p>
+           </iframe>
+          </div>
+
+           </div>
+         </div>
+      </section>
+
+
+      <section>
+        <h2>Scale & Projection</h2>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>With conformal projections like the Mercator, scale changes with position on the map.</p>
+           </div>
+          <div class="col" style="text-align: center;">
+          <div style="overflow: hidden;
+            padding-top: 56.25%;
+            position: relative">
+            <iframe src="web_mercator.html" title="Processes" scrolling="no" frameborder="0"
+              style="border: 0;
+             height: 100%;
+             left: 0;
+             position: absolute;
+             top: 0;
+             width: 100%;">
+             <p>Your browser does not support iframes.</p>
+           </iframe>
+          </div>
+
+           </div>
+         </div>
+      </section>
+
 
    <!--    <section>
         <h2>Columns &amp; Highlights</h2>
