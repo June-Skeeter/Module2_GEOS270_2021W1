@@ -1,0 +1,330 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>Reveal.js template</title>
+  <!-- credit https://bl.ocks.org/elipousson/f64814b1ee4aab5d83775bfbf556d35a -->
+
+  <meta name="description" content="Simple Reveal.js slidedeck template. Source files loaded from jsDelivr.">
+  <meta name="author" content="jitesh@spinspire.com">
+
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/reveal.min.css">
+  <!-- see https://cdnjs.com/libraries/reveal.js/3.6.0 for what's available -->
+  <!-- examples: simple, beige, black, blood, league, moon, night, serif, sky, solarized, white ... -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/theme/beige.css" id="theme">
+  <!-- see: https://cdnjs.com/libraries/highlight.js/ -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/ir-black.min.css">
+
+  <!-- Printing and PDF exports -->
+  <script>
+    // Load print, pdf stylesheets from jsDelivr
+    var srcUrlPrefix = 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/';
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = srcUrlPrefix + (window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css');
+    document.getElementsByTagName('head')[0].appendChild(link);
+  </script>
+
+  <!--[if lt IE 9]>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/lib/js/html5shiv.js"></script>
+    <![endif]-->
+  <style>
+    body {
+      /* make it totally black */
+      background-color: black;
+    }
+
+    .container {
+      display: flex;
+    }
+
+    .col {
+      flex: 1
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="reveal">
+
+    <div class="slides">
+
+       <section>
+        <h2>Earth</h2>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>Multiple distortions from idealized sphere:</p>
+          <p class="fragment fade-out">-Topography</p> 
+          <p class="fragment shrink">-Gravity Differentials</p>
+          <p class="fragment grow">-Centrifugal Force</p>
+           </div>
+          <div class="col" style="text-align: Right;">
+          <p><img src="images/shape.jpg" width="600"></p>
+           </div>
+      </section>
+
+       <section>
+        <h3>Ignore Topography!?</h3>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <!-- <p><img src="images/geoid_2.png" width="600"></p> -->
+          <p>In most applications, topography isn't explicitly needed.</p>
+          <p>- We can account for it separately if necessary using digital elevation models or contour lines.</p>
+           </div>
+      </section>
+
+
+       <section>
+        <h3>Digital Elevation Model</h3>
+        <div class="container">
+          <div class="col">
+          <p><img src="images/DEM.png" width="1000"></p>
+          <!-- <p>We can account for it separately if necessary using digital elevation models or contour lines.</p> -->
+           </div>
+      </section>
+
+      
+       <section>
+        <h3>Contour Lines</h3>
+        <div class="container">
+          <div class="col">
+          <p><img src="images/contour lines.png" width="1000"></p>
+          <!-- <p>We can account for it separately if necessary using digital elevation models or contour lines.</p> -->
+           </div>
+      </section>
+
+       <section>
+        <h2>Geoid</h2>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>Simplification of Earth:</p>
+          <p>-Smooths topography</p> 
+          <p>-Gravity differences measured by satellites</p>
+          <p>-Differences in surface heights (180 m)</p>
+           </div>
+          <div class="col" style="text-align: Right;">
+          <p><img src="images/geoid.jpg" width="600"></p>
+           </div>
+      </section>
+
+
+       <section>
+        <h2>The Oblate Spheroid</h2>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>A close approximation of Earth's shape</p>
+          <p class="fragment fade-out">-Topography</p> 
+          <p class="fragment shrink">-Gravity Differentials</p>
+          <p class="fragment grow">-Centrifugal Force</p>
+           </div>
+          <div class="col" style="text-align: Right;">
+          <p><img src="images/OblateSpheroid.png" width="600"></p>
+           </div>
+      </section>
+
+       <section>
+        <h2>A Datum</h2>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>A system to link the oblate spheroid to the geoid </p>
+          <p>-Connect the coordinates to the earth’s surface</p>
+           </div>
+          <div class="col" style="text-align: Right;">
+          <p><img src="images/datum.png" width="600"></p>
+           </div>
+      </section>
+
+       <section>
+        <!-- <h3>Types of Datums</h3> -->
+        <div class="container">
+          <div class="col" style="text-align: Center;">
+          <p><h3>Local Datum</h3> Fits geoid very well in a particular region</p>
+          <p><img src="images/local_datum.png" width="400"></p>
+           </div>
+          <div class="col" style="text-align: Center;">
+          <p><h3>Global Datum</h3> Fits the geoid fairly well everywhere</p>
+          <p><img src="images/global_datum.png" width="350"></p>
+           </div>
+      </section>
+
+
+       <section>
+        <!-- <h3>Types of Datums</h3> -->
+        <div class="container">
+          <div class="col" style="text-align: Center;">
+          <p><h3>Local Datum</h3> Fits geoid very well in a particular region</p>
+          <p><img src="images/nad_geoid.png" width="400"></p>
+           </div>
+          <div class="col" style="text-align: Center;">
+          <p><h3>Global Datum</h3> Fits the geoid fairly well everywhere</p>
+          <p><img src="images/wgs_geoid.jpg" width="400"></p>
+           </div>
+      </section>
+
+       <section>
+        <h3>Only Minor Differences</h3>
+          <img src="images/nad_v_wgs.png" width="800">
+          <div class="col" style="text-align: Left;">
+          <p>For some cases, either datum is suitable.  But strictly speaking, a local datum will provide a more accurate representation if you are dealing with a small area like a city or province.  For global scale analysis, you always want a global datum. </p>
+          </div>
+      </section>
+
+
+       <section>
+        <h3>Geographic Coordinate System (GCS)</h3>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>Spherical Coordinate System for identifying locations on the spheroid.</p>
+          <p>-All GCS are tied to a specific datum.</p>
+           </div>
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/lat_lon.gif" width="400"></p>
+           </div>
+         </div>
+      </section>
+
+
+
+       <section>
+        <h3>Latitude/Longitude</h3>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>Degrees of latitude and longitude are defined by their angle from the center of the spheroid.</p>
+           </div>
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/lat_lon.gif" width="400"></p>
+           </div>
+         </div>
+      </section>
+
+       <section>
+        <h3>Latitude</h3>
+          <img src="images/grat.gif" width="800">
+          <div class="col" style="text-align: Left;">
+          <p>Distance form Equator: -90 to +90 degrees</p>
+          </div>
+      </section>
+
+       <section>
+        <h3>Longitude</h3>
+          <img src="images/grat.gif" width="800">
+          <div class="col" style="text-align: Left;">
+          <p>Distance form Prime Meridian: -180 to +180 degrees</p>
+          </div>
+      </section>
+
+       <section>
+        <h3>Longitude</h3>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>Distance covered by one degree of longitude varies based on latitude (distance from equator).</p>
+           </div>
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/long_boi.gif" width="400"></p>
+           </div>
+         </div>
+      </section>
+
+       <section>
+        <h3>Projecting a GCS</h3>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>Once we have a GCS, we can project it onto a 2D plane.</p>
+           </div>
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/proj_1.jpg" width="400"></p>
+           </div>
+         </div>
+      </section>
+
+
+       <section>
+        <h3>Projected Coordinate Systems</h3>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>A projection is just a flattened GCS.  Imagine sending rays of light through the ellipsoid onto a flat surface, that resulting image is a projection.</p>
+           </div>
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/proj_2.png" width="400"></p>
+           </div>
+         </div>
+      </section>
+
+
+       <section>
+        <h3>Steps of Abstraction</h3>
+          <img src="images/abstraction.png" width="1000">
+      </section>
+
+
+   <!--    <section>
+        <h2>Columns &amp; Highlights</h2>
+        <div class="container">
+          <div class="col">
+            <p class="fragment">Fragements reveal themselves on user input. Or have other transitions.</p>
+            <p class="fragment grow">grow</p>
+            <p class="fragment shrink">shrink</p>
+          </div>
+          <div class="col">
+            <p class="fragment fade-out">fade-out</p>
+            <p class="fragment fade-up">fade-up</p>
+            <p class="fragment fade-down">fade-down</p>
+            <p class="fragment fade-left">fade-left</p>
+            <p class="fragment fade-right">fade-right</p>
+            <p class="fragment fade-in-then-out">fades in, then out when we move to the next step</p>
+          </div>
+          <div class="col">
+            <p class="fragment fade-in-then-semi-out">fades in, then obfuscate when we move to the next step</p>
+            <p class="fragment highlight-current-blue">blue only once</p>
+            <p class="fragment highlight-red">highlight-red</p>
+            <p class="fragment highlight-green">highlight-green</p>
+            <p class="fragment highlight-blue">highlight-blue</p>
+          </div>
+        </div>
+      </section>
+ -->
+
+    </div><!-- .slides -->
+
+  </div><!-- .reveal -->
+
+  <!-- not needed since 3.8.0 -->
+  <!-- script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/lib/js/head.min.js"><script -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/js/reveal.min.js"></script>
+  <script>
+    // Full list of configuration options available at:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+      controls: false,
+      progress: false,
+      history: true,
+      center: true,
+      overview: false,
+      loop: false,
+
+      transition: 'none', // none/fade/slide/convex/concave/zoom
+
+      // Optional reveal.js plugins, loaded from jsDelivr
+      dependencies: [
+        { src: srcUrlPrefix + 'lib/js/classList.js', condition: function () { return !document.body.classList; } },
+        { src: srcUrlPrefix + 'plugin/markdown/marked.js', condition: function () { return !!document.querySelector('[data-markdown]'); } },
+        { src: srcUrlPrefix + 'plugin/markdown/markdown.js', condition: function () { return !!document.querySelector('[data-markdown]'); } },
+        { src: srcUrlPrefix + 'plugin/highlight/highlight.js', async: true, condition: function () { return !!document.querySelector('pre code'); }, callback: function () { hljs.initHighlightingOnLoad(); } },
+        { src: srcUrlPrefix + 'plugin/zoom-js/zoom.js', async: true },
+        { src: srcUrlPrefix + 'plugin/notes/notes.js', async: true }
+      ]
+    });
+  </script>
+</body>
+
+</html>

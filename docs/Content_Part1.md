@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Monday
+title: Monday Videos
 parent: Content
 nav_order: 1
 ---

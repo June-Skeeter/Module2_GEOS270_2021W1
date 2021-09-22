@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Assesment
+title: Assessment
 # parent: Module 1
-nav_order: 4
+nav_order: 5
 ---
 
 # Assessment
@@ -90,19 +90,19 @@ The earth is:
 [**QC3**](Content_Part2_1.md#qc3)
 The first step in creating an abstraction of the earth is to simplify it to a geoid.  The is an abstract representation of the earth that smooths out ______ but preserves ______ differences due to ______ differentials.
 
-[**QC4**](Content_Part2_2.md#qc4) 
+[**QC4**](Content_Part2_1.md#qc4) 
 If you are mapping a city like Vancouver, ______ a datum is best.  When mapping the whole world, you'll want to use a ______ datum.  WGS 1984 is an example of a ______ datum, NAD 1983 is an example of a ______ datum.
 
-[**QC5**](Content_Part2_3.md#qc5) 
+[**QC5**](Content_Part2_1.md#qc5) 
 [Latitude/Longitude] is a measure of angular distance North/South of the equator and [Latitude/Longitude] is a measure of angular distance from the prime meridian.  
 
-[**QC6**](Content_Part2_3.md#qc6) 
+[**QC6**](Content_Part2_1.md#qc6) 
 Together they form a ______, describing locations on the surface of a simplified model of the earth known as a ______ which represents the earth as an oblate spheroid.
 
-[**QC7**](Content_Part2_4.md#qc7) 
+[**QC7**](Content_Part2_2.md#qc7) 
 The Mercator projection should never be used to calculate [Area/Distance/Bearing]. (select all that apply)
 
-[**QC8**](Content_Part2_4.md#qc8) 
+[**QC8**](Content_Part2_2.md#qc8) 
 To calculate population density, you would want to use:
 
 - an equal area projection
@@ -110,7 +110,7 @@ To calculate population density, you would want to use:
 - an azimuthal projection
 - a geographic coordinate system
 
-[**QC9**](Content_Part2_4.md#qc9) 
+[**QC9**](Content_Part2_2.md#qc9) 
 This type projection is great for displaying a small area like the city of Vancouver is, but it could not be used to display all of Canada on one map.
 
 - Equidistant
@@ -118,26 +118,26 @@ This type projection is great for displaying a small area like the city of Vanco
 - Universal Transverse Mercator
 - Equal Area
 
-[**QC10**](Content_Part2_5.md#qc0) 
+[**QC10**](Content_Part2_2.md#qc0) 
 A [large/small] scale map displays a [large/small] area and a [large/small] scale map displays a [large/small] area.
 
 
-[**QC11**](Content_Part2_5.md#qc11) 
+[**QC11**](Content_Part2_2.md#qc11) 
 Which map would show a larger area?
 
 - 1:1,000
 - 1:1,000,000
 
-[**QC12**](Content_Part2_5.md#qc12) 
+[**QC12**](Content_Part2_2.md#qc12) 
 Which map is a large scale map?
 
 - 1:1,000
 - 1:1,000,000
 
-[**QC13**](Content_Part2_5.md#qc13) 
+[**QC13**](Content_Part2_2.md#qc13) 
 Map scale is the ______ of a distance on a map compared to distance on the ground.
 
-[**QC14**](Content_Part2_5.md#qc14) 
+[**QC14**](Content_Part2_2.md#qc14) 
 Your choice of map projection is entirely independent from the scale you wish to display your map at [T/F]
 
 ---
@@ -168,7 +168,7 @@ Export your layout. Name it “Projections_Compared.pdf”. Upload it to canvas.
 
 ## Content Questions (20 pts)
 
-[**WC1**](Content_Part2_4.md#wc1)
+[**WC1**](Content_Part2_2.md#wc1)
 Briefly describe the steps of the abstraction process.
 
 ---

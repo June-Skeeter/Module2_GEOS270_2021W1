@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>Reveal.js template</title>
+  <!-- credit https://bl.ocks.org/elipousson/f64814b1ee4aab5d83775bfbf556d35a -->
+
+  <meta name="description" content="Simple Reveal.js slidedeck template. Source files loaded from jsDelivr.">
+  <meta name="author" content="jitesh@spinspire.com">
+
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/reveal.min.css">
+  <!-- see https://cdnjs.com/libraries/reveal.js/3.6.0 for what's available -->
+  <!-- examples: simple, beige, black, blood, league, moon, night, serif, sky, solarized, white ... -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/theme/beige.css" id="theme">
+  <!-- see: https://cdnjs.com/libraries/highlight.js/ -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/ir-black.min.css">
+
+  <!-- Printing and PDF exports -->
+  <script>
+    // Load print, pdf stylesheets from jsDelivr
+    var srcUrlPrefix = 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/';
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = srcUrlPrefix + (window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css');
+    document.getElementsByTagName('head')[0].appendChild(link);
+  </script>
+
+  <!--[if lt IE 9]>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/lib/js/html5shiv.js"></script>
+    <![endif]-->
+  <style>
+    body {
+      /* make it totally black */
+      background-color: black;
+    }
+
+    .container {
+      display: flex;
+    }
+
+    .col {
+      flex: 1
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="reveal">
+
+    <div class="slides">
+
+       <section>
+        <h2>Projected Coordinate Systems</h2>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>A projection is just a flattened GCS.  Imagine sending rays of light through the ellipsoid onto a flat surface, that resulting image is a projection.</p>
+           </div>
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/proj_2.png" width="400"></p>
+           </div>
+         </div>
+      </section>
+
+       <section>
+        <h3>How do we construct projections?</h3>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+            <p>A GCS is projected onto a surface that can be flattened.</p>
+            <p class="fragment fade-up">Planar: Project onto a 2D flat plane</p>
+            <p class="fragment fade-up">Conic: Project onto a 2D cone</p>
+            <p class="fragment fade-up">Cylindrical: Project onto a 2D circular tube</p>
+           </div>
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/Proj_surface.png" width="400"></p>
+           </div>
+         </div>
+      </section>
+
+
+
+       <section>
+        <h3>Planar/Azimuthal</h3>
+        <div class="container">
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/planar.jpg" width="800"></p>
+
+          <!-- <p>In most applications, topography isn't explicitly needed.</p> -->
+          <p>Simplest option but limited applicability/scope.  Usually only used for polar regions.</p>
+           </div>
+      </section>
+
+
+       <section>
+        <h3>Conic</h3>
+        <div class="container">
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/conic.jpg" width="800"></p>
+          <p>Great for mid-latitudes.  Can only cover one hemisphere at a time.</p>
+           </div>
+      </section>
+
+       <section>
+        <h3>Cylindrical</h3>
+        <div class="container">
+          <div class="col" style="text-align: Center;">
+          <p><img src="images/cylindrical.jpg" width="800"></p>
+          <p>Works for the full Earth (Normal).  Or applied to small slices (Transverse)</p>
+           </div>
+      </section>
+
+
+       <section>
+        <h3>Classes of Projection</h3>
+        <div class="container">
+          <div class="col" style="text-align: left;">
+          <p>Conformal: Shapes are preserved.</p>
+          <p>Equal-area: Areas is preserved.</p>
+          <p>Equidistant: Distance is preserved (*limited)</p>
+          <p>True-direction: Direction is preserved (*limited)</p>
+          <p>Compromise: Splits the difference for aesthetics</p>
+          </div>
+      </section>
+
+
+       <section>
+        <h3>Conformal Projections</h3>
+        <div class="container">
+          <div class="col" style="text-align: center;">
+          <p><img src="images/conformal.png" width="500"></p>
+          </div>
+      </section>
+
+
+      <section>
+        <h3>Conformal Projections</h3>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>No angular deformation, but area is severely distorted.</p>
+          <p>Scale changes across the map, poor for measuring distances or areas.</p>
+           </div>
+          <div class="col" style="text-align: center;">
+          <p><img src="images/lambert.jpg" width="500"></p>
+          <p>Lambert Conformal Conic</p>
+           </div>
+         </div>
+      </section>
+
+       <section>
+        <h3>Equal Area</h3>
+        <div class="container">
+          <div class="col" style="text-align: center;">
+          <p><img src="images/equal_area.png" width="600"></p>
+          </div>
+      </section>
+
+      <section>
+        <h3>Equal Area</h3>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>Preserves area but angles/shapes are deformed.</p>
+          <p>Very useful in GIS where area must be preserved for land analysis.</p>
+           </div>
+          <div class="col" style="text-align: center;">
+          <p><img src="images/lambert.jpg" width="500"></p>
+          <p>Albers Equal Area</p>
+           </div>
+         </div>
+      </section>
+
+      <section>
+        <h3>Universal Transverse Mercator</h3>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>Globe is divided into strips 6 degrees wide.  Zones span from 80N to 80S.</p>
+           </div>
+          <div class="col" style="text-align: center;">
+          <p><img src="images/utm_1.png" width="500"></p>
+           </div>
+         </div>
+      </section>
+
+      <section>
+        <h3>Universal Transverse Mercator</h3>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>Each zone is projected on a transverse cylinder.</p>
+           </div>
+          <div class="col" style="text-align: center;">
+          <p><img src="images/utm_3.png" width="500"></p>
+           </div>
+         </div>
+      </section>
+
+      <section>
+        <h3>Universal Transverse Mercator</h3>
+        <div class="container">
+          <div class="col" style="text-align: Left;">
+          <p>Little distortion within zones – great for mapping small areas.</p>
+           </div>
+          <div class="col" style="text-align: center;">
+          <p><img src="images/utm_2.png" width="500"></p>
+           </div>
+         </div>
+      </section>
+
+
+       <section>
+        <h3>Sources of Distortion</h3>
+          <img src="images/distortion.png" width="1000">
+          
+      </section>   
+
+       <section>
+        <h3>Tearing</h3>
+          <img src="images/Mollewide.png" width="1000">
+          <p>All projections have tearing (edges).</p>
+      </section>
+
+
+       <section>
+        <h3>Tearing</h3>
+          <img src="images/Mollewide.png" width="1000">
+      </section>
+
+   <!--    <section>
+        <h2>Columns &amp; Highlights</h2>
+        <div class="container">
+          <div class="col">
+            <p class="fragment">Fragements reveal themselves on user input. Or have other transitions.</p>
+            <p class="fragment grow">grow</p>
+            <p class="fragment shrink">shrink</p>
+          </div>
+          <div class="col">
+            <p class="fragment fade-out">fade-out</p>
+            <p class="fragment fade-up">fade-up</p>
+            <p class="fragment fade-down">fade-down</p>
+            <p class="fragment fade-left">fade-left</p>
+            <p class="fragment fade-right">fade-right</p>
+            <p class="fragment fade-in-then-out">fades in, then out when we move to the next step</p>
+          </div>
+          <div class="col">
+            <p class="fragment fade-in-then-semi-out">fades in, then obfuscate when we move to the next step</p>
+            <p class="fragment highlight-current-blue">blue only once</p>
+            <p class="fragment highlight-red">highlight-red</p>
+            <p class="fragment highlight-green">highlight-green</p>
+            <p class="fragment highlight-blue">highlight-blue</p>
+          </div>
+        </div>
+      </section>
+ -->
+
+    </div><!-- .slides -->
+
+  </div><!-- .reveal -->
+
+  <!-- not needed since 3.8.0 -->
+  <!-- script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/lib/js/head.min.js"><script -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/js/reveal.min.js"></script>
+  <script>
+    // Full list of configuration options available at:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+      controls: false,
+      progress: false,
+      history: true,
+      center: true,
+      overview: false,
+      loop: false,
+
+      transition: 'none', // none/fade/slide/convex/concave/zoom
+
+      // Optional reveal.js plugins, loaded from jsDelivr
+      dependencies: [
+        { src: srcUrlPrefix + 'lib/js/classList.js', condition: function () { return !document.body.classList; } },
+        { src: srcUrlPrefix + 'plugin/markdown/marked.js', condition: function () { return !!document.querySelector('[data-markdown]'); } },
+        { src: srcUrlPrefix + 'plugin/markdown/markdown.js', condition: function () { return !!document.querySelector('[data-markdown]'); } },
+        { src: srcUrlPrefix + 'plugin/highlight/highlight.js', async: true, condition: function () { return !!document.querySelector('pre code'); }, callback: function () { hljs.initHighlightingOnLoad(); } },
+        { src: srcUrlPrefix + 'plugin/zoom-js/zoom.js', async: true },
+        { src: srcUrlPrefix + 'plugin/notes/notes.js', async: true }
+      ]
+    });
+  </script>
+</body>
+
+</html>
