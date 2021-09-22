@@ -16,7 +16,7 @@ nav_order: 1
 This map [projection tutorial](https://ubc-library-rc.github.io/map-projections/content/exercises.html) was created by Maya Daurio at the UBC research Commons.  The tutorial has three exercises.  Work through each exercise to get a quick overview of how to work with coordiante systems in ArcGIS Pro.
 
 
-## Data Donload
+## Data Download
 
 The data download button on the tutorial page is currently broke.  You can download the data for the tutorials [here](https://github.com/June-Skeeter/Module2_GEOS270/blob/main/data/projections-workshop-data.zip)
 
