@@ -119,7 +119,7 @@ This type projection is great for displaying a small area like the city of Vanco
 - Equal Area
 
 [**QC10**](Content_Part2_2.md#qc0) 
-A [large/small] scale map displays a [large/small] area and a [large/small] scale map displays a [large/small] area.
+A map displaying UBC campus would be a [large/small] scale, a map displaying the whole world would be a [large/small] scale.
 
 
 [**QC11**](Content_Part2_2.md#qc11) 

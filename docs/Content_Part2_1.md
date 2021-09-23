@@ -74,7 +74,7 @@ The first step in creating an abstraction of the earth is to simplify it to a ge
 
 ### QC4
 
-If you are mapping a city like Vancouver, ______ a datum is best.  When mapping the whole world, you'll want to use a ______ datum.  WGS 1984 is an example of a ______ datum, NAD 1983 is an example of a ______ datum.
+If you are mapping a city like Vancouver, a ______ datum is best.  When mapping the whole world, you'll want to use a ______ datum.  WGS 1984 is an example of a ______ datum, NAD 1983 is an example of a ______ datum.
 
 
 ### QC5
