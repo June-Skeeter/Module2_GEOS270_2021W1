@@ -33,7 +33,6 @@ nav_order: 1
 
 ### QA4
 What value is listed for Top? - Rounded to he nearest whole number is fine.
-<!-- 83.1 -->
 
 ### QA5
 What unit is this number in? (*hint* check the Spatial Reference Info).
@@ -41,13 +40,12 @@ What unit is this number in? (*hint* check the Spatial Reference Info).
 - Kilometers
 - Miles
 - Degrees
-<!-- Degrees -->
 
 **4**{: .label .label-red } Right click on CAN_WGS1984 in the Contents pane open the Attribute Table.  Note the columns named Shape_Area and Shape_Length.  When you work in a geodatabase, these columns are calculated and displayed by default.  If you make changes (edits, projections), Shape_Area and Shape_Length are updated automatically.
 
 ### QA6
 What value is listed for Shape_Area? - Rounded to he nearest whole number is fine.
-<!-- 1693 -->
+
 
 ---
 
@@ -84,8 +82,7 @@ Now we can calculate the population density.
 **11**{: .label .label-red } Looking in the attribute table, you will see the population density has been calculated.
 
 ### WA2_1
-Does this number make sense for the population density of Canada?  Why or Why not?
-<!-- No -->
+
 
 ---
 
@@ -126,8 +123,6 @@ We briefly covered Feature Dataset in Module 1.  To review, **a Feature Dataset 
 ### QA7
 
 What is the population density for CAN_Albers_EA? - Round to nearest tenth.
-
-<!-- 3.8 -->
 
 ### QA8
 

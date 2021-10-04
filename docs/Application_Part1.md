@@ -57,5 +57,4 @@ Vancouver is in this UTM zone:
 
 What does Project "On the Fly" do?
 
-<!-- displays layers in the map CRS regardless of the data's underlying CRS -->
 
