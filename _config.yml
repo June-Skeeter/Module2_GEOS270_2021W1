@@ -7,8 +7,8 @@ github_repo_url: "https://june-skeeter.github.io/Module2_GEOS270/"
 heading_anchors: true
 
 aux_links:
-  "View on github":
-    - "//github.com/June-Skeeter/Module2_GEOS270/"
+  "Course Syllabus":
+    - "https://june-skeeter.github.io/GEOS270W1/"
 
 # license information for workshop content
 license_name: "Creative Commons Attribution 4.0 International License"
